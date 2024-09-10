@@ -1,0 +1,1003 @@
+﻿Classificação;Classificação;Empresa;Sede;Setor de atividade;Receita líquida;Capital;Lucro líquido;Margem líquida;Ebitda;Patrim. líquido;Saldo Positivo
+2019;2018;;;;(em R$ milhões);(Origem);(em R$ milhões);(em %);(em R$ milhões);(em R$ milhões);
+;;;;;;;;;;;
+1;1;Petrobras *;CE;Agropecuária;431,8;BR;88,5;20,5;168,4;228,8;1
+2;2;JBS *;SP;Água e Saneamento;432,9;CR;23,2;5,4;165,5;1.133,00;1
+3;3;Vale *;PR;Comércio Atacadista e Exterior;433,6;BR;11,3;2,6;23,9;63,8;1
+4;4;Raízen ¹ *;SP;Serviços Especializados;433,7;BR;26,8;6,2;103,6;257,3;1
+5;-;Petrobras Distribuidora *;MG;Empreendimentos Imobiliários;433,8;BR;43;9,9;54,5;106,4;1
+6;5;Ultrapar *;SP;Química e Petroquímica;434,3;BR;61,5;14,2;78,7;224,6;1
+7;6;Cosan *;DF;TI & Telecom;435,6;BR;-26;-6;-3,5;39,9;0
+8;8;Grupo Carrefour Brasil *;MG;Agropecuária;435,7;BR;8,6;2;17;42,7;1
+9;10;GPA *;RS;Mecânica;436;BR;19,2;4,4;53,5;111,3;1
+10;9;Cervejaria Ambev *;PR;Química e Petroquímica;437,1;BR;16,4;3,7;39,5;101,9;1
+11;7;Braskem *;RJ;Petróleo e Gás;438,1;IC/US;-126,5;-28,9;-22,7;-482,5;0
+12;19;Marfrig *;SP;Energia Elétrica;438,1;NO/BR;45,2;10,3;231,5;1.277,90;1
+13;12;Cargill *;RJ;TI & Telecom;438,5;MX;21,8;5;ND;72,4;1
+14;14;Telefônica Brasil *;SP;Transportes e Logística;438,8;BR;26,1;5,9;45,3;153,8;1
+15;13;ADM;SP;Energia Elétrica;439;BR;92,6;21,1;40,6;990,2;1
+16;11;Gerdau *;RJ;Serviços Especializados;439,5;BR;-45;-10,2;119,3;1.107,40;0
+17;15;Bunge Alimentos *;SP;Serviços Ambientais;442,3;BR;-24,6;-5,6;-10,5;196,4;0
+18;16;Claro Telecom *;RJ;Transportes e Logística;443,2;BR;8,6;1,9;102,1;149,4;1
+19;23;FCA - Fiat Chrysler Automobiles;SP;Comércio Atacadista e Exterior;444;BR;24,7;5,6;38,7;63,6;1
+20;24;Enel Brasil *;RS;Comércio Varejista;446,9;BR;15,5;3,5;21,6;47,2;1
+21;18;BRF *;RJ;TI & Telecom;449,9;EP/BR;13,1;2,9;44,8;254,7;1
+22;17;ArcelorMittal Brasil *;GO;Farmacêutica e Cosméticos;450;BR;81,9;18,2;105,8;438,8;1
+23;21;Shell *;MG;Construção e Engenharia;450,4;BR;24,3;5,4;43,5;129,8;1
+24;22;CPFL Energia *;MG;Comércio Varejista;450,8;BR;33,5;7,4;41;160,5;1
+25;20;Copersucar ¹ *;MG;Açúcar e Álcool;451,1;BR;-8,6;-1,9;246;475;0
+26;26;Neoenergia *;SC;Comércio Varejista;451,1;BR;38,9;8,6;38;214,9;1
+27;28;Eletrobras *;SP;Alimentos e Bebidas;451,6;JP;30,4;6,7;41,8;478,5;1
+28;-;Suzano *;ES;Comércio Varejista;452;BR;7,2;1,6;18,2;95,2;1
+29;34;Volkswagen;SC;Empreendimentos Imobiliários;452,5;BR;106,9;23,6;124;592,4;1
+30;25;Via Varejo *;MT;Açúcar e Álcool;453,6;BR;56,5;12,5;70;469,4;1
+31;30;CSN *;SP;Transportes e Logística;454,7;BR;-29,5;-6,5;9,2;98,1;0
+32;31;Cemig *;SP;Transportes e Logística;454,8;BR;-6,3;-1,4;60,3;89,9;0
+33;29;Samsung ²;SP;Transportes e Logística;455,8;BR;29,4;6,5;65,2;218,7;1
+34;-;Cofco International Brasil *;BA;Plásticos e Borracha;455,9;BR;-185;-40,6;-83,3;-1.238,70;0
+35;35;Embraer *;SP;Eletroeletrônica;456,5;BR;-23,8;-5,2;8,1;13,8;0
+36;32;Louis Dreyfus *;RS;Alimentos e Bebidas;457,1;BR;98,3;21,5;98;691,8;1
+37;38;Latam Airlines *;SP;Química e Petroquímica;458,3;SU;6,3;1,4;41,7;265,8;1
+38;33;Oi 4 *;RJ;Química e Petroquímica;458,5;GB;24,7;5,4;44,5;102,5;1
+39;45;Energisa *;RJ;Química e Petroquímica;458,5;PR;-3,5;-0,8;50;63,1;0
+40;46;Magazine Luiza *;MT;Comércio Varejista;458,5;BR;7,5;1,6;35,6;105,8;1
+41;44;Honda *;SP;Serviços Especializados;459,9;HO;26,2;5,7;ND;66,6;1
+42;39;Lojas Americanas *;RS;Educação e Ensino;460,1;BR;-11,8;-2,6;2,4;195;0
+43;67;Equatorial Energia *;PR;Comércio Varejista;460,5;BR;4,1;0,9;16,9;-8,7;1
+44;40;Amaggi *;SC;Metalurgia e Mineração;461,1;BR;51,1;11,1;70,8;1.345,60;1
+45;37;Correios;BA;Transportes e Logística;464,7;BR;31,8;6,8;214,1;122,9;1
+46;43;Sabesp;MG;Transportes e Logística;465,3;BR/HO;-2,6;-0,6;73,5;613,3;0
+47;48;Raia Drogasil *;SP;Serviços Especializados;466,6;BR;-3,3;-0,7;203,7;1.013,90;0
+48;41;TIM Participações *;ES;Mat. de Constr. e Decoração;466,9;BR;47;10,1;76,1;376,2;1
+49;42;Minerva Foods *;SP;Comércio Varejista;468,5;BR;3,7;0,8;ND;20,4;1
+50;47;Copel *;SP;Farmacêutica e Cosméticos;468,6;BR;72,3;15,4;113;105,1;1
+51;51;EDP - Energias do Brasil *;SP;Mecânica;469,5;UR/GB;25,6;5,4;54,1;129,3;1
+52;59;Yara *;SP;Comércio Atacadista e Exterior;470,2;BR;30,8;6,6;51,5;95;1
+53;53;Usiminas *;SP;Têxtil. Couro e Vestuário;470,3;BR;65,9;14;101;320,3;1
+54;55;Mosaic ² *;PR;Comércio Varejista;470,7;BR;9,7;2,1;25,9;10,1;1
+55;52;Nestlé ²;SP;Empreendimentos Imobiliários;470,8;BR;96,8;20,6;315,2;3.162,80;1
+56;57;Natura *;SP;Comunicação e Gráfica;473,8;BR;3;0,6;31,9;11,9;1
+57;54;Itaipu ²;CE;Construção e Engenharia;474,2;BR;-55,2;-11,6;50,1;351;0
+58;49;Globo *;SP;TI & Telecom;475,2;US;77,2;16,2;120,2;105,4;1
+59;66;Gol Linhas Aéreas *;SP;Energia Elétrica;476,3;BR;3,4;0,7;4,9;16,4;1
+60;62;Light *;SP;Alimentos e Bebidas;476,8;BR;32,6;6,8;70,4;508,5;1
+61;63;WEG *;SC;Transportes e Logística;477;BR;55,9;11,7;144,7;226,7;1
+62;69;Rede D'Or São Luiz *;GO;Comércio Varejista;477,7;BR;15,5;3,3;10,1;98,1;1
+63;58;Renault *;MG;Agropecuária;478,6;BR;6,4;1,3;9,9;73,2;1
+64;50;Coamo;PA;Alimentos e Bebidas;478,6;BR;46,8;9,8;64,9;454,3;1
+65;68;Coca-Cola Femsa Brasil *;MG;Comércio Varejista;480,2;BR;11,9;2,5;17,6;62,8;1
+66;60;Votorantim Cimentos *;RS;Comércio Varejista;480,5;BR;129,5;26,9;112,5;586;1
+67;61;ALE Combustíveis *;GO;Química e Petroquímica;482,1;BR;36,7;7,6;48,8;145,7;1
+68;72;Basf *;SP;Serviços Ambientais;484,4;BR;35,5;7,3;132;209;1
+69;76;Azul *;SP;Metalurgia e Mineração;484,7;BR;6,9;1,4;27;75,8;1
+70;65;Cielo *;SP;Metalurgia e Mineração;485,9;BR;-10,4;-2,1;68,8;-145,3;0
+71;71;Gavilon ¹;RJ;Plásticos e Borracha;487,1;US;27,9;5,7;102,9;830,5;1
+72;74;CCR *;GO;Açúcar e Álcool;487,2;BR;95,3;19,6;145,4;544;1
+73;70;Tereos Internacional ¹ *;SP;Plásticos e Borracha;488,4;BR;-;-;-;-;1
+74;79;Fertipar *;RS;Mat. de Constr. e Decoração;488,6;BR;50,9;10,4;50,1;865,2;1
+75;73;Klabin *;SP;Mat. de Constr. e Decoração;488,7;BR;-12,6;-2,6;57,2;-2,8;0
+76;88;Localiza *;PR;Energia Elétrica;491;BR;-108,5;-22,1;308,2;1.377,70;0
+77;75;Iochpe-Maxion *;SP;Plásticos e Borracha;491,7;BR;-25;-5,1;56,4;53,7;0
+78;83;Aurora;PR;Papel e Celulose;492,6;BR;40,7;8,3;80,7;56,6;1
+79;80;Engie Brasil Energia *;MG;Comércio Atacadista e Exterior;492,9;BR;5,8;1,2;ND;69,4;1
+80;77;Drogarias DPSP *;MG;Mat. de Constr. e Decoração;495,2;BR;23,7;4,8;40,7;394,1;1
+81;84;JSL *;PR;Empreendimentos Imobiliários;495,8;BR;71,1;14,3;95,5;469,1;1
+82;81;Lojas Renner *;SC;Transportes e Logística;496,2;SU;29;5,8;316;394,6;1
+83;78;Nexa Resources *;SP;Açúcar e Álcool;496,5;BR;18,2;3,7;193,8;64,6;1
+84;82;C. Vale;MG;Alimentos e Bebidas;496,6;BR;3,6;0,7;20,9;86,4;1
+85;95;CBMM;MG;Serviços Médicos;496,6;BR;36;7,3;87,4;57,1;1
+86;114;Volvo do Brasil ²;SC;Têxtil. Couro e Vestuário;499,5;BR;31,9;6,4;21,7;594,6;1
+87;89;Bayer;SP;Transportes e Logística;500,7;BR;-353,5;-70,6;57,4;190,7;0
+88;85;Saint-Gobain *;MG;Alimentos e Bebidas;500,7;BR;58;11,6;97;108,5;1
+89;92;CNH ² *;SP;Mat. de Constr. e Decoração;504,7;BR;49;9,7;101,5;293,7;1
+90;-;Grupo Mateus *;RS;Química e Petroquímica;504,9;BR;20,5;4,1;127,9;160,1;1
+91;86;Petrogal;SP;Alimentos e Bebidas;505,2;US;127,9;25,3;ND;301,6;1
+92;91;Celesc *;DF;Serviços Especializados;505,5;BR;70,2;13,9;94,5;55,1;1
+93;96;Guararapes *;SP;Serviços Especializados;506,1;BR;4,8;1;6,2;16;1
+94;103;Whirlpool *;SP;Educação e Ensino;507,6;BR;30,7;6,1;73,5;180;1
+95;90;Cencosud ² *;PE;Energia Elétrica;507,7;BR;151,4;29,8;211,2;400,3;1
+96;94;Novelis;SP;Serviços Médicos;509,4;BR;102,6;20,1;87,4;686,2;1
+97;107;Volkswagen Cam. e Ônibus;RS;Comércio Varejista;509,8;BR;10,5;2,1;20,5;73,4;1
+98;99;Rumo *;CE;Serviços Ambientais;510,2;BR;44,4;8,7;71,3;255,6;1
+99;105;Cogna *;MG;Transportes e Logística;511,5;BR;34,1;6,7;58,4;367,1;1
+100;698;Anglo American Minério de Ferro Brasil;SP;Açúcar e Álcool;512,2;BR;20,1;3,9;265,3;850,6;1
+101;100;Lar;SP;Química e Petroquímica;512,7;US;29;5,7;58,4;125,7;1
+102;102;Biosev ¹ *;SP;Serviços Médicos;513,2;BR;48,7;9,5;102,1;59,5;1
+103;101;Farmácias Pague Menos;SC;Serviços Especializados;513,5;BR;-19;-3,7;41,9;52,6;0
+104;93;Glencore;AL;Água e Saneamento;514,7;BR;65,8;12,8;76,5;-452,7;1
+105;111;Supermercados BH ² *;SP;TI & Telecom;515,3;AL;16,4;3,2;ND;165,5;1
+106;108;Cedae;GO;Transportes e Logística;515,4;BR;79,8;15,5;126,4;229,1;1
+107;106;M. Dias Branco *;SP;Veículos e Peças;515,5;BR;62,7;12,2;84;173,7;1
+108;98;Makro *;PR;Transportes e Logística;515,6;BR;-9,2;-1,8;311,6;244,5;0
+109;109;MRV *;SP;Comércio Varejista;518;BR;-5;-1;10;36;0
+110;160;Hydro Alunorte;RS;Construção e Engenharia;518,5;BR;46,3;8,9;167,9;344,4;1
+111;112;Hospital São Paulo;RJ;Comércio Atacadista e Exterior;519,6;BR;15,3;2,9;31,1;50,6;1
+112;136;Elo *;SC;Comércio Varejista;520;BR;5,7;1,1;46,3;119,6;1
+113;128;B3 *;RS;Alimentos e Bebidas;520,5;BR;16,4;3,1;31,3;104;1
+114;115;Electrolux *;PE;Empreendimentos Imobiliários;521,5;BR;189;36,2;299,2;2.437,20;1
+115;97;Repsol Sinopec Brasil *;SP;Plásticos e Borracha;522;BR;10,2;1,9;30;853,2;1
+116;119;Grupo Saga *;DF;Serviços Médicos;522,1;BR;82,3;15,8;140,3;187,5;1
+117;216;Mercadolivre.com ² *;SP;Construção e Engenharia;523,3;BR;171,3;32,7;250,1;544,1;1
+118;137;Grupo Águia Branca *;SP;Construção e Engenharia;525,5;AL;2,4;0,5;5,9;101,1;1
+119;125;McDonald's ²;PR;Alimentos e Bebidas;528,1;GB;31,9;6;127,9;485;1
+120;122;Cálamo *;SP;Transportes e Logística;530;KW;-0,7;-0,1;ND;91,8;0
+121;131;Camil ¹ *;SP;Agropecuária;530,7;BR;18,4;3,5;193,9;490,2;1
+122;147;Vallourec *;SP;Educação e Ensino;531;GB;-77,1;-14,5;-2,3;1.640,50;0
+123;-;C&A *;SP;Metalurgia e Mineração;533;BR;13;2,4;24,5;226,2;1
+124;123;VLI *;MG;Metalurgia e Mineração;533,1;BR;-14,3;-2,7;26,5;192,9;0
+125;110;CBA *;SP;Comércio Atacadista e Exterior;537,9;BR;40,6;7,5;47,5;70;1
+126;130;Paranapanema *;MT;Agropecuária;537,9;BR;72,3;13,4;193,7;1.179,20;1
+127;104;Dia Brasil ²;MG;Metalurgia e Mineração;538,2;BR;69,9;13;95,7;347,7;1
+128;-;TAG;SP;Comércio Varejista;539,1;BR;19,5;3,6;28,9;117,6;1
+129;129;Tupy *;DF;Comércio Varejista;540,4;BR;35,1;6,5;59,1;75,4;1
+130;-;OEC *;CE;Petróleo e Gás;540,4;BR;60,9;11,3;97,5;206,6;1
+131;132;Copasa MG *;SP;Açúcar e Álcool;540,5;BR;-3,5;-0,6;219,1;22,2;0
+132;127;Pepsico ²;SP;Papel e Celulose;543,4;BR;172,2;31,7;165,4;323,5;1
+133;149;Randon *;ES;Comércio Atacadista e Exterior;547,2;BR;54;9,9;9,5;63,6;1
+134;162;ZF *;PR;Educação e Ensino;547,7;BR;61,4;11,2;107,6;193,3;1
+135;165;Sotreq *;RS;Têxtil. Couro e Vestuário;547,8;BR;38,2;7;67,2;245,8;1
+136;-;UPL do Brasil ¹;SP;Açúcar e Álcool;548,5;BR;6,7;1,2;329,9;343,3;1
+137;124;Duratex *;SC;Mat. de Constr. e Decoração;549,7;BR;66,4;12,1;112;336;1
+138;121;Empresas Procter & Gamble;SP;Empreendimentos Imobiliários;552,5;BR;30,6;5,5;59,2;304;1
+139;120;Zaffari ²;RJ;Construção e Engenharia;556,2;BR;8,3;1,5;15,2;174,2;1
+140;381;CTG Brasil *;SP;Metalurgia e Mineração;556,3;BR;-6,5;-1,2;65,5;-370,6;0
+141;183;Eurofarma *;SP;Açúcar e Álcool;556,7;BR;36,2;6,5;285;257,5;1
+142;174;UOL *;SP;TI & Telecom;558,3;US;-;-;-;-;1
+143;148;Profarma *;SP;Petróleo e Gás;560,9;BR/JP;53,4;9,5;81,6;500,6;1
+144;228;Unidas *;MS;Água e Saneamento;560,9;BR;83,4;14,9;141,7;814,5;1
+145;152;Comexport *;SP;Serviços Especializados;561,7;BR;2,2;0,4;117,5;320,7;1
+146;142;IP Brasil ²;SP;Alimentos e Bebidas;563,9;BR;-16,9;-3;10,8;124,6;0
+147;158;Sanepar;PR;Mat. de Constr. e Decoração;565,8;BR;116,5;20,6;176,8;821,3;1
+148;118;ECTP;SP;Empreendimentos Imobiliários;566;BR;111,6;19,7;123,5;274,6;1
+149;159;CEG;BA;Energia Elétrica;567,1;BR;145,1;25,6;227,6;764,3;1
+150;334;Alupar *;SP;Transportes e Logística;568,9;BR;-8,9;-1,6;0,3;39,8;0
+151;184;Coopercitrus *;MG;Transportes e Logística;569,3;BR;40,6;7,1;105,3;251,5;1
+152;150;Atvos Agroindustrial 1 4 *;SP;Comércio Varejista;572,2;BR;24;4,2;169,1;396,4;1
+153;117;Pfizer ²;GO;Alimentos e Bebidas;572,4;BR;90,9;15,9;104,2;185,9;1
+154;140;Du Pont;SP;Educação e Ensino;572,8;BR;-9,4;-1,6;104,6;1.594,80;0
+155;156;Comigo;PB;Alimentos e Bebidas;578;BR;44;7,6;56,5;282;1
+156;169;Gazin *;RS;Comércio Varejista;579,5;BR;16,4;2,8;15,6;144,2;1
+157;143;Rodoil;SC;Eletroeletrônica;580;BR;55,8;9,6;93,1;379,4;1
+158;166;NTS;SP;Serviços Ambientais;582,6;BR;58,6;10,1;95;364,7;1
+159;145;Cocamar *;SP;Comércio Varejista;582,8;BR;-5,6;-1;28,2;-9,4;0
+160;153;CEEE *;SP;Mecânica;583,5;BR;37,6;6,4;83,3;467,4;1
+161;170;Dasa *;MG;Construção e Engenharia;587,1;BR;16,8;2,9;77,3;81,5;1
+162;164;Lojas Cem;SP;Agropecuária;587,2;BR;19,8;3,4;36,4;181,9;1
+163;194;FMC ²;SP;Energia Elétrica;588,2;BR;-58,8;-10;389,4;2.121,10;0
+164;155;Marcopolo *;BA;Química e Petroquímica;589,3;GB;109,9;18,6;133,5;577,5;1
+165;-;Sanofi Medley;MA;Metalurgia e Mineração;590,6;BR;69;11,7;134,7;598,8;1
+166;181;Solar Coca-Cola *;GO;Serviços Especializados;591,1;BR;38,7;6,6;58,5;280,2;1
+167;161;Grupo Martins *;SP;Mat. de Constr. e Decoração;592,1;BR;-12,2;-2,1;58;114,8;0
+168;134;Eldorado Brasil *;RJ;Comércio Varejista;592,2;BR;61,6;10,4;110,3;428,3;1
+169;87;State Grid Brazil Holding *;PE;Mat. de Constr. e Decoração;594,6;IT/BR;-1,2;-0,2;102,5;1.031,50;0
+170;141;Bosch;RJ;Energia Elétrica;595,4;BR;-54,7;-9,2;49,9;-195,8;0
+171;116;Rede;SP;Serviços Especializados;597,8;BR;-1,6;-0,3;40,3;123,1;0
+172;139;Votorantim Geração de Energia *;RJ;Metalurgia e Mineração;600,2;FR;58,8;9,8;116,9;275,1;1
+173;175;Cooxupé *;SP;Construção e Engenharia;601;BR;7,1;1,2;21,7;260,1;1
+174;138;Bianchini;RS;Comércio Atacadista e Exterior;602,8;BR;10,9;1,8;10,3;44,6;1
+175;154;Casas Pernambucanas *;SP;Energia Elétrica;604,9;BR;0,3;0;ND;1,6;0
+176;191;Copacol;MG;Construção e Engenharia;605,6;BR;25,5;4,2;65,5;170,6;1
+177;167;Caramuru Alimentos *;MG;Eletroeletrônica;606,2;EP;4,2;0,7;58,1;196,6;1
+178;135;Avon Brasil ²;PR;Comércio Varejista;606,6;BR;8,1;1,3;60,8;112,9;1
+179;133;CMPC *;SP;Metalurgia e Mineração;607,7;BR;47,2;7,8;75;350,9;1
+180;187;Accenture *;SE;Água e Saneamento;608,4;BR;0,8;0,1;55,6;1.498,10;1
+181;146;Aperam Inox América do Sul *;RJ;Serviços Médicos;608,6;BR;-75;-12,3;-59,2;130,6;0
+182;168;Três Corações Alimentos *;PR;Transportes e Logística;608,9;BR;13,7;2,3;64,5;120,8;1
+183;-;PagSeguro Internet;RS;Têxtil. Couro e Vestuário;609;BR;73,5;12,1;88,4;519,5;1
+184;190;Évora *;MT;Agropecuária;609,1;BR;109,8;18;ND;339,5;1
+185;260;FTO;RJ;Energia Elétrica;609,4;BR;0,7;0,1;2,5;36;1
+186;197;Belagrícola *;SP;Comércio Varejista;611,1;BR;17;2,8;25,7;64,6;1
+187;178;Roche;RJ;Química e Petroquímica;612,1;BR;18,4;3;29,6;59,3;1
+188;214;Grupo Ecorodovias *;PE;Açúcar e Álcool;612,2;BR;141,6;23,1;296,8;598,2;1
+189;217;Cyrela *;SP;Transportes e Logística;612,6;BR;-49,9;-8,1;174;409,4;0
+190;188;EMS *;SP;Transportes e Logística;613,7;BR;28,6;4,7;60,3;37,3;1
+191;173;Arteris *;SP;Plásticos e Borracha;615,3;AL;93,3;15,2;134,5;403,7;1
+192;193;Embrapa;SP;Construção e Engenharia;616,2;BR;-6,1;-1;-11;17;0
+193;172;Alpargatas *;RS;Alimentos e Bebidas;616,9;BR;14,8;2,4;48,2;108,8;1
+194;241;Allied Tecnologia *;SP;Química e Petroquímica;617,8;EP;-240,8;-39;13,4;-182,2;0
+195;196;São Martinho ¹ *;SP;Alimentos e Bebidas;619,2;BR;130,7;21,1;127,3;397,8;1
+196;231;Larco;SP;Açúcar e Álcool;619,5;BR;-286,7;-46,3;64,8;-1.298,00;0
+197;-;Uber ²;SP;Farmacêutica e Cosméticos;619,6;BR;46,3;7,5;96,4;492,5;1
+198;198;Embasa;RJ;Serviços Especializados;621,5;BR;-;-;-;-;1
+199;189;Yduqs *;SP;Mat. de Constr. e Decoração;621,6;BR;81,4;13,1;136,8;555,5;1
+200;208;Novartis Biociências;SC;Plásticos e Borracha;624,7;BR;53,3;8,5;ND;236,1;1
+201;157;Invepar *;PR;Comércio Varejista;625,4;BR;-24,2;-3,9;-8,3;455,4;0
+202;213;Cooperalfa;SP;Plásticos e Borracha;629,6;BR;23,8;3,8;53,1;206,4;1
+203;163;Siemens ¹ *;SC;Agropecuária;634,5;BR;36;5,7;43,1;217,8;1
+204;220;Coca-Cola Andina Brasil;MS;Agropecuária;635,5;BR;32,1;5,1;262,5;415;1
+205;207;Piracanjuba;SP;Empreendimentos Imobiliários;636,8;BR;326,7;51,3;635,7;3.056,80;1
+206;-;NovaAgri *;SP;Veículos e Peças;637;BR;6,5;1;62,6;91,4;1
+207;272;Elcano;SP;Comércio Varejista;637,9;BR;15,4;2,4;41,4;136,3;1
+208;206;Agrária;SP;TI & Telecom;638;BM/BR;-85,5;-13,4;-26,5;93,3;0
+209;261;Esho;RS;Agropecuária;639,1;BR;18,5;2,9;11,5;186,4;1
+210;-;Equinor Energy;BA;Serviços Médicos;641;BR;-7,9;-1,2;21,5;144,3;0
+211;212;Aché *;SP;Plásticos e Borracha;642,1;US;22,4;3,5;44;228;1
+212;215;Castrolanda;RS;Agropecuária;644;BR;7,1;1,1;12,9;120,2;1
+213;199;Unigel *;SP;Empreendimentos Imobiliários;647,1;BR;483,6;74,7;532,8;3.981,40;1
+214;244;Tenda Atacado;ES;Metalurgia e Mineração;648,4;BR;106,6;16,4;124,9;418;1
+215;219;Potencial;SC;Comércio Varejista;650,4;BR;36,3;5,6;63,7;200,3;1
+216;211;ISA CTEEP *;SC;Energia Elétrica;650,9;BR;250,7;38,5;464;460,4;1
+217;180;Hypera Pharma *;RS;Alimentos e Bebidas;652,7;BR;1,1;0,2;14,7;105,2;1
+218;151;Magnesita *;SP;TI & Telecom;652,8;HO;7;1,1;142;992,2;1
+219;277;Kinross;RS;Serviços Médicos;654,9;BR;-15,3;-2,3;14,5;199,5;0
+220;226;Rhodia ² *;RS;Serviços Especializados;655,9;FR/BE;202;30,8;272,9;792,4;1
+221;210;Atento *;MG;Veículos e Peças;656,8;FR;8,6;1,3;86,1;225,7;1
+222;204;Cooperativa Integrada *;MG;Comércio Atacadista e Exterior;657;BR;6,2;0,9;11,4;8,2;1
+223;179;MRS Logística;PR;Agropecuária;657,3;BR;9,6;1,5;39,7;154,6;1
+224;224;Mesa *;PR;Comércio Atacadista e Exterior;657,3;BR;45,6;6,9;69,4;291,4;1
+225;223;Supermercados Mundial;PR;Açúcar e Álcool;657,5;BR;94,3;14,3;357,4;467,1;1
+226;236;Hospital Albert Einstein;PR;Agropecuária;659,1;BR;15,2;2,3;41,6;80,4;1
+227;227;Cisa *;RJ;Metalurgia e Mineração;659,5;BR;161,5;24,5;223,3;838;1
+228;218;Eneva *;SP;Serviços Especializados;661,9;BR;74,4;11,2;285,2;350,9;1
+229;229;SLC *;AL;Açúcar e Álcool;663,4;BR;0,1;0;127;119,8;0
+230;192;AGCO *;CE;Comércio Varejista;664,2;BR;33,9;5,1;40,3;2;1
+231;225;Sonda Supermercados;RS;Fumo;665,4;US/BR;33,6;5;137,7;284,4;1
+232;-;Savegnago *;SP;Metalurgia e Mineração;665,6;BR;64,4;9,7;90,2;180;1
+233;202;Ericsson *;SP;Serviços Especializados;666,8;BR;41,9;6,3;129,2;374,2;1
+234;195;Unipar Carbocloro *;RN;Água e Saneamento;668,7;BR;28,8;4,3;97,8;2.307,70;1
+235;-;Ball BCSA;RJ;Petróleo e Gás;669;BR;312,4;46,7;860,1;1.658,50;1
+236;234;BSBIOS;SP;Comunicação e Gráfica;669,7;BR;-318,1;-47,5;-453,4;-172,7;0
+237;350;Matrix *;SP;Comércio Atacadista e Exterior;671,6;BR;54,7;8,1;68,8;164,8;1
+238;293;Comerc Energia;SP;Serviços Médicos;673,7;BR;20,1;3;28,8;237,1;1
+239;238;Tigre *;PR;Eletroeletrônica;675,2;BR;76,9;11,4;94,8;221,8;1
+240;250;Fleury Medicina e Saúde *;SP;Comunicação e Gráfica;675,6;BR;23,1;3,4;54,8;131,8;1
+241;297;Ímpar Serviços Hospitalares *;MG;Transportes e Logística;676,9;BR;26,1;3,9;108,9;86,4;1
+242;200;Citrosuco ¹;SP;TI & Telecom;677,1;BR;62,2;9,2;123,7;118,4;1
+243;239;Marisa *;MG;Têxtil. Couro e Vestuário;677,3;BR;-13,9;-2;36,1;194,8;0
+244;230;Algar Telecom *;MT;Comércio Varejista;677,6;BR;20,2;3;170,9;110,6;1
+245;285;Aegea Saneamento *;SP;Petróleo e Gás;678;BR;1,2;0,2;9,1;5,1;1
+246;276;Burger King Brasil *;RJ;TI & Telecom;679,4;US;108,4;16;208,9;421,3;1
+247;243;Serpro;PR;Transportes e Logística;681,3;CH;55,1;8,1;439,1;222,4;1
+248;246;Corsan;MT;Alimentos e Bebidas;681,5;BR;16,1;2,4;49,9;83,6;1
+249;254;Cooperativa Frísia;DF;Serviços Especializados;681,9;BR;223,7;32,8;408;196,9;1
+250;252;Metrô de São Paulo;SP;Educação e Ensino;685;BR;85,6;12,5;76,9;438,4;1
+251;247;Líder;SP;Metalurgia e Mineração;686,2;BR/NO;-52,4;-7,6;-45,2;29,5;0
+252;251;Calçados Beira Rio;PR;Alimentos e Bebidas;686,8;BR;12;1,7;15,8;92,1;1
+253;266;Tambasa Atacadistas;SP;Educação e Ensino;688,9;BR;-55,3;-8;99,4;83,8;0
+254;245;Infraero;PI;Comércio Varejista;689;BR;-;-;-;-;1
+255;257;CEB *;RJ;Transportes e Logística;689,1;MY/GB;128;18,6;263,7;509,2;1
+256;263;Frimesa;SP;Farmacêutica e Cosméticos;691,3;BR;49,3;7,1;103,3;508;1
+257;304;CEG Rio;GO;Mat. de Constr. e Decoração;692,5;BR/IR;72,8;10,5;92,5;296,1;1
+258;270;Dimed *;SP;Química e Petroquímica;693,1;BR;69,4;10;137,2;203,1;1
+259;259;Itambé;SP;Serviços Especializados;693,3;BR;21,3;3,1;388;77,1;1
+260;258;CPTM;SP;Transportes e Logística;695,6;BR;-558,8;-80,3;167,9;-754,6;0
+261;240;Granol;PR;Transportes e Logística;697,1;BR;-87,5;-12,6;255,2;388;0
+262;288;Adama;GO;Metalurgia e Mineração;698,8;AS;138,6;19,8;228,6;320;1
+263;278;Serasa Experian ¹;SP;TI & Telecom;699,7;US;1,8;0,3;284,4;737,4;1
+264;265;Coopavel;SC;Têxtil. Couro e Vestuário;702;BR;20;2,8;ND;468;1
+265;305;Nufarm ¹ *;MG;Construção e Engenharia;704,3;FR;39;5,5;72;207,1;1
+266;249;Alcoa *;SP;Eletroeletrônica;707,7;FR;-58,8;-8,3;-3,2;38,1;0
+267;248;Zema Petróleo ¹ ³;RJ;Transportes e Logística;707,7;PT/BR;-18,7;-2,6;31,9;110,5;0
+268;242;Grupo Lincoln Junqueira ¹ *;MG;Alimentos e Bebidas;708;SU;17,3;2,4;50,8;461,4;1
+269;253;CMOC Brasil *;RS;Comércio Varejista;714,6;BR;17,1;2,4;22,2;121,4;1
+270;222;Cenibra *;RJ;Farmacêutica e Cosméticos;714,8;AL;-11;-1,5;69,2;531,3;0
+271;232;Ocyan 4 *;SP;Açúcar e Álcool;716;BR;61,8;8,6;353,6;346,6;1
+272;262;Hosp. e Matern. São Camilo;AM;Metalurgia e Mineração;716,1;PR;-68,4;-9,5;155,4;35,3;0
+273;298;RCell;SP;Empreendimentos Imobiliários;718,6;BR;102,2;14,2;117;108,5;1
+274;209;Albras;GO;Serviços Especializados;720,5;BR;179,3;24,9;286,3;535;1
+275;264;Copagaz;PR;Comércio Varejista;721,1;BR;11,5;1,6;31,6;75,2;1
+276;268;Energia Sustentável do Brasil;MG;Transportes e Logística;724,2;SU;36,9;5,1;ND;158;1
+277;284;Centauro *;SP;Serviços Especializados;728,2;BR/PT;63,8;8,8;127,9;178,8;1
+278;233;Equinor;MG;Serviços Especializados;728,3;BR;34,1;4,7;104,4;148,8;1
+279;256;Mahle Metal Leve *;SP;Comércio Atacadista e Exterior;729;BR;3,6;0,5;26,7;7,9;1
+280;-;DSM *;SP;Açúcar e Álcool;730;BR;92,9;12,7;250,8;375,8;1
+281;255;Innova;SP;Serviços Especializados;734,7;BR;48,8;6,6;65,7;592,1;1
+282;203;Cigás;SP;Química e Petroquímica;736,2;BR;105,2;14,3;ND;424,1;1
+283;269;Supermercado Angeloni ² *;SP;Química e Petroquímica;740,1;BR;78,1;10,6;153,1;196,7;1
+284;292;SAP ²;SP;Petróleo e Gás;740,4;BR;0,5;0,1;4,3;28,9;1
+285;385;Sertrading *;RJ;Empreendimentos Imobiliários;743,2;US;56,6;7,6;373;7.516,10;1
+286;271;Vigor *;SP;Construção e Engenharia;745,6;EP;104;13,9;155,5;153;1
+287;291;Supermercado Bahamas;RS;Metalurgia e Mineração;745,9;BR;73,5;9,9;124,9;409,7;1
+288;-;Grupo Zaragoza;MG;Alimentos e Bebidas;749,9;BR;126,2;16,8;127,1;253,6;1
+289;287;Ajinomoto do Brasil ¹;MG;Educação e Ensino;750,6;BR;172,8;23;280,8;2.113,70;1
+290;299;Cia. Sulamericana de Distribuição *;SP;Construção e Engenharia;750,7;BR;51,3;6,8;24,2;835,2;1
+291;294;Saneago;SP;Agropecuária;751,2;BR;7,4;1;8,9;176,7;1
+292;286;Grupo Aço Cearense 4 *;RS;Transportes e Logística;752,1;AL;61,3;8,1;115,3;888,5;1
+293;313;TecBan *;SP;Agropecuária;753,6;BR;-134,7;-17,9;26,9;943;0
+294;290;J. L. Braz *;SC;Farmacêutica e Cosméticos;754;BR;52,1;6,9;130,9;220,7;1
+295;324;Indorama Ventures *;SP;Empreendimentos Imobiliários;754,3;BR;314,3;41,7;635,8;3.000,10;1
+296;339;Bahiagás;SP;Serviços Médicos;756,1;BR;118,1;15,6;224,6;214,6;1
+297;302;Mafra Hospitalar;ES;Comércio Atacadista e Exterior;756,8;BR;-0,3;0;14;189,6;0
+298;296;Usina Coruripe ¹ *;PR;Comércio Varejista;759,4;BR;45,3;6;55,1;243,1;1
+299;274;Cotrijal;SP;Comunicação e Gráfica;761;BR;34,7;4,6;83,5;472,7;1
+300;282;Fundação do ABC;GO;Comércio Varejista;762;BR;38,5;5;56,1;134,9;1
+301;309;Taurus;AM;Eletroeletrônica;763;FR;129;16,9;109,1;702,1;1
+302;237;Alcoa World Alumina Brasil;SP;Mecânica;765,5;BR;129,9;17;138;758,9;1
+303;267;Servimed;RS;Fumo;767,3;BR/US;54,8;7,1;113,4;146,9;1
+304;295;Nextel Telecomunicações *;PR;Petróleo e Gás;768,8;BR;186;24,2;251,6;545,9;1
+305;280;Totvs *;SP;Alimentos e Bebidas;769,5;BR;150,9;19,6;181,5;269,8;1
+306;310;Hospital Sírio Libanês;BA;Comércio Varejista;769,9;BR/US;13,1;1,7;139,6;312,7;1
+307;306;Clamed Farmácias *;RS;Agropecuária;773,1;BR;24;3,1;33,4;184,9;1
+308;-;Timbro Trading *;SP;Energia Elétrica;773,4;BR;12,2;1,6;ND;48,1;1
+309;283;Coop;CE;Alimentos e Bebidas;777,3;BR;65,7;8,4;88,8;566,1;1
+310;281;BRK Ambiental *;SP;TI & Telecom;788,2;BR;38,9;4,9;200,8;1.789,80;1
+311;402;Gestamp Brasil *;MG;Construção e Engenharia;789,4;BR;8,4;1,1;65,6;155,1;1
+312;332;3 Tentos;SP;Mat. de Constr. e Decoração;793,3;BR;73,6;9,3;168,3;318,8;1
+313;322;Anglo American Níquel Brasil *;PR;Educação e Ensino;795,2;BR;16,2;2;45,9;352;1
+314;308;Record *;RJ;Química e Petroquímica;797,7;BR;22,1;2,8;68,8;200,7;1
+315;312;Columbia Trading *;RJ;Papel e Celulose;798,1;BR;-;-;-;-;1
+316;311;GRU Airport;SP;Serviços Especializados;798,7;AL;46,6;5,8;87,7;225,2;1
+317;-;EISA *;SP;Empreendimentos Imobiliários;798,7;BR;151;18,9;181,7;1.093,10;1
+318;331;Zilor ¹ *;SP;Comércio Varejista;800,4;BR;-16,5;-2,1;ND;56,2;0
+319;327;Petrobahia *;SP;Agropecuária;802,7;BR;14,8;1,8;23;132,2;1
+320;315;Santa Catarina;SP;Empreendimentos Imobiliários;804,4;BR;290,5;36,1;229,6;3.809,50;1
+321;351;PetroquímicaSuape;RJ;Transportes e Logística;804,7;JP/BR;-16,8;-2,1;142,7;1.038,30;0
+322;569;Nokia Solutions;PE;Energia Elétrica;806,4;BR;15,1;1,9;26,8;51,3;1
+323;321;South32 Minerals ¹;SP;Agropecuária;806,7;BR;16,6;2,1;28;325,9;1
+324;319;Comlurb;SC;Comércio Atacadista e Exterior;807,6;BR;53,5;6,6;ND;381,8;1
+325;301;Compesa;SP;Metalurgia e Mineração;807,7;AG;-31,5;-3,9;ND;1.231,10;0
+326;359;AngloGold;SC;Transportes e Logística;811,6;BR;3,7;0,5;11,7;49,1;1
+327;369;Pif Paf Alimentos;PR;Comércio Varejista;812,7;BR;10,4;1,3;80,8;113,3;1
+328;-;Prima Foods *;SP;Construção e Engenharia;813,2;BR;26,1;3,2;54,2;271,5;1
+329;279;Grendene *;MG;Educação e Ensino;814,5;BR;39,7;4,9;62;436,9;1
+330;325;AES Tietê Energia *;SP;Petróleo e Gás;814,8;EP;76;9,3;138,8;646,1;1
+331;393;Ihara;CE;Mecânica;818,8;BR;88,7;10,8;167,1;174,2;1
+332;335;Cristália;PR;Alimentos e Bebidas;819;BR;84,8;10,3;166,8;577,3;1
+333;341;Getnet;SC;Plásticos e Borracha;819,7;BR;101,6;12,4;167,5;114,5;1
+334;347;Cibra *;PB;Água e Saneamento;826,4;BR;99,7;12,1;132,3;1.014,90;1
+335;355;Valid *;PR;Empreendimentos Imobiliários;827,9;BR;107,6;13;94,1;999,9;1
+336;317;Atlas Schindler;PR;Alimentos e Bebidas;833,3;BR;82,6;9,9;150,4;526,4;1
+337;360;Agrofel;SP;Mecânica;835,3;SE;29,2;3,5;91,6;426,4;1
+338;323;Qualicorp *;RJ;Transportes e Logística;839,2;BR;145,9;17,4;219,8;1.148,80;1
+339;496;Smartfit *;SP;Empreendimentos Imobiliários;839,5;BR;-446,2;-53,1;-254;-367,3;0
+340;307;Solví *;SP;Serviços Médicos;842,6;BR;20,4;2,4;120,8;875,2;1
+341;382;AFG Brasil;RS;Serviços Médicos;845,6;BR;53,4;6,3;99,5;443,2;1
+342;342;Panasonic;SP;Serviços Especializados;847,9;GB;-;-;-;-;1
+343;368;Construtora Tenda *;SP;Energia Elétrica;849,3;BR;19,3;2,3;27;40,7;1
+344;338;Rissul;SP;Empreendimentos Imobiliários;850,2;BR;145,8;17,1;165,5;429,8;1
+345;537;Iconic;PI;Agropecuária;854,5;BR;67,8;7,9;143,4;258,5;1
+346;320;Coasul;DF;Alimentos e Bebidas;854,9;BR;72,4;8,5;128,2;269;1
+347;340;Arauco *;MG;Metalurgia e Mineração;856,3;BR;14,9;1,7;110,6;762,8;1
+348;314;Prosegur *;RJ;Construção e Engenharia;860,7;BR;117,3;13,6;241,1;465,9;1
+349;600;Porto Sudeste *;SP;Farmacêutica e Cosméticos;860,9;US;90,3;10,5;140,4;309,9;1
+350;318;Positivo *;SP;Serviços Especializados;862,8;BR;-422,4;-49;-157;-165,5;0
+351;411;Even *;RS;Agropecuária;868,3;BR;6,8;0,8;25,7;90,4;1
+352;328;Multilaser *;RJ;Serviços Especializados;868,9;BR;190,1;21,9;270,8;836;1
+353;358;Super Mercado Zona Sul *;ES;Água e Saneamento;871,5;BR;192,7;22,1;266,9;2.742,20;1
+354;201;Nova Energia *;PR;Comércio Varejista;872,8;BR;-26,6;-3;127,1;501,7;0
+355;343;InterCement *;CE;Alimentos e Bebidas;873,7;BR;34;3,9;61;290,3;1
+356;357;Sapore *;SC;Comércio Varejista;875,1;BR;27;3,1;82,6;297,9;1
+357;300;Usina Santa Terezinha 1 4 *;SC;Papel e Celulose;877,3;BR;141,1;16,1;195,2;557,7;1
+358;316;Petrovia;SP;Comércio Atacadista e Exterior;877,9;BR;8,5;1;21,3;77,7;1
+359;374;Caesb;SP;Educação e Ensino;885,4;BR;-7;-0,8;-9,8;26,9;0
+360;348;Coteminas *;SP;Transportes e Logística;890,3;BR;85,7;9,6;179,3;346,3;1
+361;337;Abbott;GO;Açúcar e Álcool;891,3;BR;76,5;8,6;584,5;601,2;1
+362;333;Cotrisal;SP;Alimentos e Bebidas;891,8;BR;94,7;10,6;129,5;211;1
+363;326;Grupo Ecom Energia *;SP;Comunicação e Gráfica;894,1;BR;79,4;8,9;ND;236,5;1
+364;383;Frigol;PE;Química e Petroquímica;895,4;BR;92,4;10,3;129,1;596,7;1
+365;398;União Química *;SP;Comunicação e Gráfica;896,9;BR;-65,2;-7,3;7,8;219,4;0
+366;443;Atakarejo;RJ;Educação e Ensino;898,4;BR;-29,6;-3,3;152,3;335,2;0
+367;388;Elfa Medicamentos *;SP;Água e Saneamento;898,5;BR/CN;44,7;5;255;837,2;1
+368;330;Ruff CJ;RS;Petróleo e Gás;898,7;BR;82,7;9,2;147,4;191,7;1
+369;420;Pedra Agroindustrial ¹;RS;Papel e Celulose;898,8;BR;-79,6;-8,9;221,3;336,5;0
+370;377;Gasmig;MG;Serviços Especializados;899,6;BR;0,5;0,1;-1,9;32,4;1
+371;392;Intelbras *;SP;Têxtil. Couro e Vestuário;901;BR;111;12,3;174,3;787,8;1
+372;303;Arlanxeo Brasil *;SP;Construção e Engenharia;904,1;BR;159,5;17,6;238,6;1.581,70;1
+373;365;Adecoagro Brasil *;RJ;Transportes e Logística;904,9;CG;-1.642,10;-181,5;-591,5;2.663,50;0
+374;356;J. Macêdo *;SC;Alimentos e Bebidas;906,2;EP;64,9;7,2;74,4;385;1
+375;375;Taesa *;SP;Serviços Especializados;907,3;FR/BE;303,2;33,4;462,9;791,1;1
+376;363;Berneck *;SP;Transportes e Logística;909,2;AE/US/BR;30,5;3,4;521,1;867,6;1
+377;380;Grupo Dass *;SP;TI & Telecom;910,5;BR/GB;-;-;-;-;1
+378;275;Construtora Queiroz Galvão *;RS;Agropecuária;922,7;BR;13,1;1,4;12,4;140,1;1
+379;391;Dafiti Group ²;RJ;Transportes e Logística;924,8;BR;409,5;44,3;791,2;1.035,30;1
+380;-;Argo Energia *;RS;Alimentos e Bebidas;933,2;BR;-14;-1,5;16,6;238,3;0
+381;379;Giassi *;RJ;TI & Telecom;937,2;BR;53,8;5,7;95,3;310,3;1
+382;364;CVC Viagens *;SP;Transportes e Logística;937,9;BR;58,6;6,2;449,4;1.543,60;1
+383;361;Comporte Participações *;SP;TI & Telecom;938,7;BR;38;4;47,5;125,6;1
+384;410;Brink´s ²;SP;Química e Petroquímica;941,4;BR;45,2;4,8;65,5;223,4;1
+385;346;DPaschoal;SP;Agropecuária;943,6;BR;14,1;1,5;26,7;195,5;1
+386;367;Delta Sucroenergia ¹;PR;Papel e Celulose;943,7;BR;52,5;5,6;177,1;673,8;1
+387;373;Copagril;SP;Comércio Varejista;944;BR;-;-;-;-;1
+388;-;SJC Bioenergia ¹;SP;TI & Telecom;944,5;BR;69,9;7,4;125,3;576,4;1
+389;371;Copercampos;SP;Veículos e Peças;950,2;BR;100,9;10,6;182,3;2.305,10;1
+390;389;Mineração Maracá;SP;Comércio Varejista;954,1;BR;-193;-20,2;88,5;2.282,30;0
+391;403;ArcelorMittal Contagem;SP;Serviços Especializados;961,7;BR;58;6;97,6;96,5;1
+392;-;Andrade Gutierrez Engenharia;AM;Comércio Atacadista e Exterior;963;BR;-;-;-;-;1
+393;531;Oncoclínicas *;GO;Farmacêutica e Cosméticos;966,1;BR;106,9;11,1;196,3;422,5;1
+394;329;Amcor *;SP;Transportes e Logística;967,3;BR;87,3;9;246,2;51,9;1
+395;354;Vicunha Têxtil *;SP;Alimentos e Bebidas;970;BR;127,8;13,2;211,6;324,2;1
+396;396;Arezzo *;SP;Água e Saneamento;970,1;BR;179,2;18,5;323,1;555,8;1
+397;432;Vipal *;MG;Agropecuária;972,3;BR;16;1,6;17,6;124,1;1
+398;394;EDF Norte Fluminense;PR;Papel e Celulose;972,3;BR;72,8;7,5;132,8;87,3;1
+399;421;Distribuidora Rio Branco de Petróleo;SP;Transportes e Logística;972,6;BR;15,4;1,6;221,6;1.352,40;1
+400;624;PetroRio *;MG;Veículos e Peças;973,1;BR;-34,5;-3,5;109,8;145;0
+401;386;Tivit *;SP;Transportes e Logística;973,6;BR;-68,1;-7;-62,2;-207,8;0
+402;349;Olfar;MG;Açúcar e Álcool;974,5;BR/ID;62,7;6,4;251,2;326;1
+403;415;Usina Colombo ¹;RJ;Farmacêutica e Cosméticos;975,4;UR/BR;81,6;8,4;154,6;1.018,10;1
+404;397;Merck *;SP;Farmacêutica e Cosméticos;977,5;BR;200,2;20,5;311,4;265,8;1
+405;413;Beneficência Portuguesa;MG;Comércio Atacadista e Exterior;985,8;BR;68,2;6,9;83,3;494;1
+406;366;Capitale *;SP;Comércio Varejista;986,1;US/BR;23,6;2,4;191,1;176,3;1
+407;434;HCPA;SP;Alimentos e Bebidas;986,2;BR;43,8;4,4;52,1;106,6;1
+408;345;Grupo MGB (Supermercados Mambo e Giga Atacado) ² *;PR;Transportes e Logística;988,6;BR;10,2;1;9,4;11,3;1
+409;503;Facchini;SP;Alimentos e Bebidas;990,3;BR;-21,6;-2,2;-3,7;174,4;0
+410;384;IMC *;SP;Transportes e Logística;991,7;BR;-216,4;-21,8;391,3;751,2;0
+411;370;Wilson Sons *;RS;Metalurgia e Mineração;999,6;BR;43,4;4,3;123,8;-304,6;1
+412;405;Jacto;SP;Serviços Especializados;1.001,60;FR;26,8;2,7;300;2.284,00;1
+413;406;Evonik Degussa ²;SP;Serviços Especializados;1.001,60;FR;33,4;3,3;157;196,7;1
+414;401;Distribuidora Automotiva;SP;Química e Petroquímica;1.006,40;BR;58,8;5,8;69,8;233,1;1
+415;-;Camargo Corrêa Infra Construções *;PR;Comércio Varejista;1.007,30;BR;21;2,1;35,7;75,1;1
+416;426;Owens-Illinois;RJ;Comércio Varejista;1.009,40;BR;-16,9;-1,7;115,6;69,4;0
+417;376;Cesp;SP;Açúcar e Álcool;1.012,20;BR;89,7;8,9;613,4;645,7;1
+418;408;Hospital Santa Marcelina;MG;Serviços Especializados;1.014,20;IT;11,1;1,1;139,4;92,8;1
+419;409;Santher;MG;Energia Elétrica;1.014,40;BR;32,6;3,2;573,2;2.861,70;1
+420;436;Copercana;RS;Química e Petroquímica;1.014,60;BR;46,3;4,6;49,8;84;1
+421;-;São Salvador Alimentos;RS;Mecânica;1.016,90;BR;127,4;12,5;151,7;532,5;1
+422;452;Agrototal *;MG;Alimentos e Bebidas;1.017,70;BR;190;18,7;273;306,2;1
+423;395;Cia. Hering *;SP;Transportes e Logística;1.018,70;BE/HO;141,1;13,8;660,8;911,6;1
+424;399;S. Distribuidora;RJ;Construção e Engenharia;1.019,30;FR;59,5;5,8;54,1;68,2;1
+425;412;Compass Minerals *;SP;Empreendimentos Imobiliários;1.019,30;BR;204,1;20;244,9;363,8;1
+426;400;Stihl;PR;Farmacêutica e Cosméticos;1.030,00;BR;118,4;11,5;224,2;316,2;1
+427;463;Eucatex *;SC;Petróleo e Gás;1.032,00;BR;81,1;7,9;147,3;328,4;1
+428;418;Hospital Conceição;MG;Metalurgia e Mineração;1.034,10;BR;59;5,7;148,4;804;1
+429;556;Nors Brasil *;RS;Serviços Médicos;1.037,70;BR;5,3;0,5;51,9;359,7;1
+430;450;Copérdia;SP;Serviços Médicos;1.040,90;BR;2,2;0,2;-115,9;139,6;1
+431;362;Elétron Energy;SP;Serviços Especializados;1.042,30;BR;-312,7;-30;-122,7;1.001,80;0
+432;545;Alibem;BA;Papel e Celulose;1.044,70;CG;-96,1;-9,2;73,5;368,8;0
+433;427;Grupo Simões *;RS;Plásticos e Borracha;1.046,60;BR;97,3;9,3;141,8;1.097,70;1
+434;439;Drogarias Nissei *;SP;Comércio Atacadista e Exterior;1.049,40;BR/US;25,4;2,4;30,3;209,4;1
+435;440;Buffon *;RS;Metalurgia e Mineração;1.050,50;BR;17,8;1,7;51,6;426,4;1
+436;-;UHE São Simão Energia;RJ;Transportes e Logística;1.052,20;BR;11,2;1,1;271,1;317;1
+437;495;Brookfield Energia Renovável *;SP;Energia Elétrica;1.052,60;BR;26,6;2,5;ND;55,2;1
+438;419;OCS *;SP;Química e Petroquímica;1.059,70;BR;-40,5;-3,8;85,3;-285,1;0
+439;390;2W Energia *;SC;Mecânica;1.060,40;BR;97,2;9,2;137,7;620,1;1
+440;423;Cagece;SP;Química e Petroquímica;1.062,80;SU;99,6;9,4;185,8;503,1;1
+441;387;Moinho Iguaçú;SP;Educação e Ensino;1.063,00;BR;37;3,5;43,9;986;1
+442;482;Metalfrio *;SP;Açúcar e Álcool;1.064,10;BR;153,5;14,4;467;526,8;1
+443;-;Terraverde *;SP;Alimentos e Bebidas;1.068,40;BR;12,5;1,2;27,4;72,5;1
+444;465;Cruzeiro do Sul Educacional *;SP;Serviços Médicos;1.072,90;BR;50,1;4,7;260,5;1.320,00;1
+445;424;Capal;RJ;Comércio Varejista;1.075,50;BR;49,8;4,6;61,7;420,5;1
+446;498;Agro Amazônia;SP;Farmacêutica e Cosméticos;1.079,40;BR;37,8;3,5;79,3;780,1;1
+447;492;Direcional Engenharia *;SP;Serviços Especializados;1.080,70;BR;-42,6;-3,9;365,5;581,1;0
+448;372;Destro ² *;SP;Eletroeletrônica;1.083,50;BR;116,7;10,8;175,1;803;1
+449;481;Mexichem Brasil ²;DF;Serviços Médicos;1.085,40;BR;55,7;5,1;34,2;1.480,90;1
+450;477;Nortox *;SP;Transportes e Logística;1.090,40;BR;68,7;6,3;205,4;327,3;1
+451;486;Veracel;SP;Açúcar e Álcool;1.099,10;BR;102,7;9,3;450;868,7;1
+452;451;Sonda *;MG;Serviços Especializados;1.104,70;BR;1.075,60;97,4;1.069,20;739,1;1
+453;507;Minasul;SC;Metalurgia e Mineração;1.105,20;BR/EP;78,5;7,1;ND;122,5;1
+454;446;Lafargeholcim;RJ;Transportes e Logística;1.109,30;BR;285,9;25,8;639,8;836,2;1
+455;-;MRN;BA;Química e Petroquímica;1.111,50;EP/BR;76,6;6,9;104,5;499,8;1
+456;447;Vibra;RJ;Petróleo e Gás;1.111,70;BR;215,5;19,4;495,4;2.895,50;1
+457;437;Sodexo Pass;SC;Mat. de Constr. e Decoração;1.114,30;BR;13,2;1,2;129,9;367,6;1
+458;425;Arcom *;SC;Comércio Atacadista e Exterior;1.114,50;BR;29,2;2,6;40,7;237,3;1
+459;473;Furukawa Electric ¹ *;SP;Serviços Especializados;1.120,10;BR;581,8;51,9;743,8;1.074,00;1
+460;428;Baterias Moura *;BA;Metalurgia e Mineração;1.123,60;BR;608,7;54,2;796,8;665,5;1
+461;448;Hortifruti *;SC;Água e Saneamento;1.124,00;BR;119,7;10,6;364,8;1.257,00;1
+462;177;Telmex Solutions *;SP;TI & Telecom;1.135,20;BR;457,4;40,3;875;630,5;1
+463;575;Grupo Montesanto Tavares *;SP;Comércio Atacadista e Exterior;1.136,60;SU;1,8;0,2;13,5;15,7;1
+464;454;Semp TCL *;RS;Agropecuária;1.141,00;BR;-4,7;-0,4;6;114,1;0
+465;442;Ri Happy *;SP;Comércio Varejista;1.148,80;BR;14,7;1,3;64,8;88,5;1
+466;667;Rural Brasil;SP;Farmacêutica e Cosméticos;1.156,00;US;-;-;-;-;1
+467;461;Copasul;SP;Comércio Atacadista e Exterior;1.157,90;BR;115,7;10;150,9;274,2;1
+468;508;Frisa *;RS;Agropecuária;1.159,80;BR;36,9;3,2;60,8;461,6;1
+469;470;Vulcabras|azaleia *;RJ;Comunicação e Gráfica;1.161,60;BR;-86,8;-7,5;-59,8;1.855,10;0
+470;540;Supermercados Koch;RS;Comércio Varejista;1.163,30;BR;-5,7;-0,5;32,6;374,7;0
+471;441;Citepe;SP;Açúcar e Álcool;1.164,10;BR;145,4;12,5;454,4;712,2;1
+472;455;Thyssenkrupp ¹;MG;Construção e Engenharia;1.169,90;BR;35,2;3;102,7;66,8;1
+473;480;Laboratório Hermes Pardini *;SP;Comércio Varejista;1.174,30;BR;4,9;0,4;ND;28,2;1
+474;467;Tegma *;GO;Açúcar e Álcool;1.179,20;BR;108,4;9,2;399,8;706,4;1
+475;629;Buritirama;SP;Comércio Atacadista e Exterior;1.180,90;JP;-1;-0,1;-9,5;8,7;0
+476;-;Lojas Quero Quero *;SP;Açúcar e Álcool;1.181,20;BR;138,6;11,7;454,7;1.192,00;1
+477;459;FGV;ES;Química e Petroquímica;1.181,30;BR;653,2;55,3;-122,5;31,4;1
+478;289;Focus;SP;Educação e Ensino;1.181,50;BR;-9,6;-0,8;243,1;690,4;0
+479;494;Oba Hortifruti *;GO;Agropecuária;1.183,40;BR;220,8;18,7;326,1;530,1;1
+480;466;Dataprev;SP;Comércio Varejista;1.183,60;BR;20,5;1,7;89,6;431,9;1
+481;528;Coagril;RJ;Petróleo e Gás;1.185,10;BR;-228,5;-19,3;-190,3;-2.780,90;0
+482;474;Multiplan *;SP;Comércio Varejista;1.185,50;BR;-0,1;0;53,5;30;0
+483;515;SAAB *;PR;Química e Petroquímica;1.189,70;BR;-;-;-;-;1
+484;521;Grupo Soma *;RS;Comércio Varejista;1.190,80;BR;13,9;1,2;42,7;107,8;1
+485;765;Helbor *;SP;Serviços Especializados;1.192,00;US;-;-;-;-;1
+486;489;Coopatrigo;SP;Educação e Ensino;1.192,90;BR;277;23,2;283,3;2.775,90;1
+487;512;Tramontina Cutelaria;SP;Serviços Especializados;1.196,30;EP;-68,1;-5,7;-16,9;197,8;0
+488;430;Ferbasa *;MG;Alimentos e Bebidas;1.197,30;BR;21,3;1,8;86,9;165,4;1
+489;490;AB Concessões *;PE;Petróleo e Gás;1.201,20;BR;192,4;16;211,7;363;1
+490;462;Ser Educacional *;SP;Comércio Varejista;1.201,60;BR;55,4;4,6;195,5;444,6;1
+491;378;Enel Green Power Brasil *;PA;Metalurgia e Mineração;1.206,60;NO/AT;170,5;14,1;419,4;2.995,50;1
+492;544;Tegra Incorporadora *;SP;Metalurgia e Mineração;1.207,80;BR;300;24,8;232,5;1.973,10;1
+493;499;Villares Metals ¹;AM;Comércio Varejista;1.212,00;BR;103,5;8,5;220,3;650,5;1
+494;557;ArcelorMittal Gonvarri;SP;Veículos e Peças;1.213,40;EP;129,6;10,7;206,9;889,4;1
+495;517;Supermix *;MG;Química e Petroquímica;1.214,50;BR;87,3;7,2;170,6;416,4;1
+496;444;A.C. Camargo Cancer Center;SC;Alimentos e Bebidas;1.216,10;BR;68,6;5,6;141,4;342,1;1
+497;422;Prysmian Energia *;PR;Comércio Atacadista e Exterior;1.216,60;BR;165,3;13,6;222,6;406,8;1
+498;483;BR Malls Participações *;RS;Alimentos e Bebidas;1.218,60;BR;18,5;1,5;44,8;670,3;1
+499;676;Alubar;GO;Comércio Varejista;1.224,40;BR;95,3;7,8;ND;381,4;1
+500;456;Arroz Brejeiro;MG;Química e Petroquímica;1.235,70;IT;50,4;4,1;103,7;334,7;1
+501;500;Petronas *;SP;Alimentos e Bebidas;1.243,60;BR;6,1;0,5;34,4;210,8;1
+502;472;Fujioka;PA;Eletroeletrônica;1.251,80;BR;142,3;11,4;237;331,5;1
+503;511;Josapar *;RJ;Empreendimentos Imobiliários;1.257,40;US/BR;1.382,80;110;1.989,00;11.586,30;1
+504;898;Aldo Componentes Eletrônicos;SP;Eletroeletrônica;1.258,00;IT;204,9;16,3;271,8;685;1
+505;570;Pamplona;SP;Serviços Médicos;1.258,60;BR;133,7;10,6;116;2.467,20;1
+506;652;Ouro Fino Agrociência ¹;MG;Mat. de Constr. e Decoração;1.265,00;BR;-3,6;-0,3;34,4;227,7;0
+507;493;Autometal *;PR;Metalurgia e Mineração;1.266,00;EP;47,1;3,7;68,6;266,1;1
+508;-;Vivara;SP;Metalurgia e Mineração;1.266,20;AT;49,8;3,9;158,5;376,6;1
+509;433;Termomecânica *;RJ;Empreendimentos Imobiliários;1.267,50;CN;-631,3;-49,8;-198,1;1.268,80;0
+510;607;Hydro Paragominas;RJ;Energia Elétrica;1.269,50;IT;262,9;20,7;1.099,50;7.578,60;1
+511;505;Tok & Stok;PE;Educação e Ensino;1.276,00;BR;136,4;10,7;391,2;1.308,50;1
+512;519;Copergás;SP;Transportes e Logística;1.276,30;BR/IT;152,3;11,9;765,1;3.162,40;1
+513;491;Embaré;BA;Metalurgia e Mineração;1.279,60;BR;221,5;17,3;365,3;1.838,20;1
+514;549;Prosegur Holding SIS *;RS;Metalurgia e Mineração;1.280,70;BR;167,5;13,1;273,6;1.038,50;1
+515;-;Universidade Nove de Julho;RS;Agropecuária;1.289,30;BR;30,6;2,4;49,5;260,2;1
+516;510;Cinemark ²;SP;Empreendimentos Imobiliários;1.290,90;BR;-88,8;-6,9;22,2;1.603,50;0
+517;-;Grupo Sinosserra *;RJ;Comércio Varejista;1.304,10;BR;126,8;9,7;214,5;344,6;1
+518;457;Potencial Biodiesel;RJ;Água e Saneamento;1.305,50;BR;226,3;17,3;408,4;1.035,30;1
+519;478;Lopes Supermercados;RJ;Empreendimentos Imobiliários;1.305,60;BR;469,2;35,9;925;5.591,00;1
+520;-;Refit 4 *;MG;Agropecuária;1.306,80;BR;1,9;0,1;3,2;112,2;1
+521;-;Fortbras Autopeças *;DF;TI & Telecom;1.335,60;BR;147,8;11,1;249,6;1.352,40;1
+522;587;Friato;SP;Comércio Varejista;1.337,40;BR;15,5;1,2;120,9;149,2;1
+523;513;Ânima *;SP;Energia Elétrica;1.339,60;BR;56,9;4,2;98,4;136,3;1
+524;185;Heringer 4;RJ;Educação e Ensino;1.340,90;BR;-12,8;-1;1,2;1.108,80;0
+525;504;Grupo Bazan *;RS;Comércio Varejista;1.344,00;BR;30,1;2,2;162,5;145,7;1
+526;-;MGB;SP;Metalurgia e Mineração;1.344,80;BR;289,2;21,5;553,6;503,4;1
+527;641;Cerradinho ¹ *;SP;Transportes e Logística;1.347,30;BR;194;14,4;301,2;575,1;1
+528;-;Supermercado Barbosa;MG;Serviços Médicos;1.353,60;BR;158,4;11,7;371,4;696,5;1
+529;538;Telemont;RS;Mecânica;1.356,10;AL;139,3;10,3;198,9;536,5;1
+530;548;Grupo Balbo ¹ *;PE;Química e Petroquímica;1.357,40;MX;37,3;2,7;67,9;1.070,90;1
+531;476;Lojas Colombo *;SC;Comércio Varejista;1.359,90;BR;-;-;-;-;1
+532;539;Casa da Moeda do Brasil;SP;Têxtil. Couro e Vestuário;1.360,00;BR;143,1;10,5;222,4;1.087,40;1
+533;469;Cotripal;ES;Alimentos e Bebidas;1.362,40;BR;30,7;2,3;64;139,9;1
+534;-;Grupo GMC *;MS;Agropecuária;1.364,50;BR;49,9;3,7;85,2;391,3;1
+535;523;Zoetis ²;GO;Agropecuária;1.375,50;BR;22,6;1,6;67,6;185,6;1
+536;479;Caltabiano Mclarty *;SP;Comércio Varejista;1.384,80;BR;6,3;0,5;193,2;390,3;1
+537;468;Coagrisol;AM;Eletroeletrônica;1.385,80;BR;-2,1;-0,2;17,4;490,5;0
+538;416;Bluequest Resources do Brasil;MG;Agropecuária;1.394,00;BR;73,6;5,3;144,1;300,1;1
+539;516;Globenet *;RJ;TI & Telecom;1.394,10;MX;420;30,1;682,4;8.113,90;1
+540;520;Casan;ES;Comércio Varejista;1.395,60;BR;-27;-1,9;117,8;715;0
+541;-;Mineração Caraíba *;PE;Veículos e Peças;1.409,20;BR;391,9;27,8;498,3;2.034,40;1
+542;666;Stone Pagamentos;PR;Eletroeletrônica;1.410,80;JP;13;0,9;120,3;413,2;1
+543;669;Delly's;MG;Comércio Atacadista e Exterior;1.416,10;BR;319,4;22,6;304,7;611,8;1
+544;529;Portobello *;SP;Serviços Especializados;1.417,50;FR/BR;454,5;32,1;675,1;2.198,80;1
+545;654;Enauta *;RS;Agropecuária;1.424,00;BR;127,4;8,9;242,4;178,8;1
+546;530;Deten Química;PA;Metalurgia e Mineração;1.432,50;BR;143,9;10;587,6;982,3;1
+547;620;Oceana Offshore *;RJ;Mat. de Constr. e Decoração;1.439,90;SU;-342,2;-23,8;-82,1;1.998,70;0
+548;555;Tuper *;MG;Agropecuária;1.444,60;BR;19,5;1,4;49,5;109,7;1
+549;598;Codemig;SP;TI & Telecom;1.444,80;CL;-121,6;-8,4;32,1;1.120,50;0
+550;584;Ipiranga Agroindustrial ¹ *;BA;Papel e Celulose;1.447,70;BR/FI;28;1,9;485,9;2.688,50;1
+551;581;Braspress;PR;Química e Petroquímica;1.451,60;BR;166,2;11,5;271,8;896,7;1
+552;518;Assoc. das Pioneiras Sociais;SP;Comércio Atacadista e Exterior;1.452,00;BR;-;-;-;-;1
+553;576;Lorenzetti;SC;Plásticos e Borracha;1.452,00;MX;-;-;-;-;1
+554;560;Estapar *;MG;Empreendimentos Imobiliários;1.458,20;BR;120,8;8,3;228,9;1.369,30;1
+555;525;Flora *;MT;Comércio Varejista;1.458,80;BR;27,6;1,9;67,9;73,6;1
+556;679;WLM *;PR;Agropecuária;1.470,10;BR;54,8;3,7;61,8;434,8;1
+557;524;Alliar *;SP;Educação e Ensino;1.474,20;BR;120,9;8,2;397,2;510,8;1
+558;552;Better;SP;Comércio Varejista;1.480,20;BR;-15;-1;22,3;603,9;0
+559;586;Usina Santa Isabel ¹ *;SP;Eletroeletrônica;1.480,80;BR;47,4;3,2;174,3;127,3;1
+560;636;Mackenzie;PR;Agropecuária;1.482,20;BR;15,6;1,1;47,6;55;1
+561;546;Clariant *;CE;Água e Saneamento;1.482,60;BR;165,7;11,2;384,8;2.411,90;1
+562;579;Schulz *;SP;Energia Elétrica;1.483,30;BR;11,8;0,8;15,7;113,3;1
+563;535;Bombril *;DF;Comércio Varejista;1.488,90;BR;10,5;0,7;54,4;101,6;1
+564;628;Safira Holding *;RJ;Energia Elétrica;1.492,50;CN;271,2;18,2;451,7;2.207,60;1
+565;561;Log-In *;SP;Energia Elétrica;1.494,10;BR/CH/HK;483,7;32,4;1.178,50;3.294,90;1
+566;526;Panatlântica *;RS;Petróleo e Gás;1.498,00;BR;29,5;2;ND;199,9;1
+567;536;Profarma Specialty *;PR;Comércio Varejista;1.499,50;BR;-14,2;-0,9;136,7;77,7;0
+568;554;InBetta *;AM;Alimentos e Bebidas;1.500,00;BR;-;-;-;-;1
+569;568;Bracell Bahia Specialty Cellulose;RS;Alimentos e Bebidas;1.502,80;BR;356,9;23,7;534,2;604,2;1
+570;-;Nubank;PE;Energia Elétrica;1.513,50;BR;-14,9;-1;-13,5;70,7;0
+571;484;Pró-Saúde;SC;Agropecuária;1.519,10;BR;85;5,6;108,8;391;1
+572;597;Santa Casa de Porto Alegre;SP;Comércio Varejista;1.523,40;PT;46,9;3,1;ND;213,2;1
+573;-;Oxicur Participações *;RS;Serviços Médicos;1.524,80;BR;-38,7;-2,5;-21,3;-533,9;0
+574;675;SC Gás;SP;Mat. de Constr. e Decoração;1.525,80;BR;65,7;4,3;266,6;1.326,70;1
+575;610;Prati-Donaduzzi *;RS;Mecânica;1.526,50;AL;-;-;-;-;1
+576;797;CGG do Brasil;SP;Química e Petroquímica;1.533,60;US;134,7;8,8;250,5;655,6;1
+577;590;Cury *;PE;Petróleo e Gás;1.543,00;BR;13,1;0,8;18,8;57;1
+578;577;BTP;SC;Têxtil. Couro e Vestuário;1.549,20;BR;214,7;13,9;264,7;1.426,40;1
+579;-;Bem Brasil Alimentos;PR;Agropecuária;1.554,90;BR;40,4;2,6;145,5;158,3;1
+580;626;Stara *;GO;Alimentos e Bebidas;1.556,90;BR;284;18,2;486;599,6;1
+581;643;Unifertil;SP;Agropecuária;1.560,60;BR;31,1;2;79,1;410,4;1
+582;688;Omega Geração *;SP;Papel e Celulose;1.562,80;BR;29,8;1,9;178,8;36,4;1
+583;565;Almaviva do Brasil *;SP;Serviços Médicos;1.570,30;BR;-42,2;-2,7;-41;103,4;0
+584;580;Usina Santa Adélia ¹ *;SP;Mat. de Constr. e Decoração;1.571,30;US;90,8;5,8;356,7;792,9;1
+585;564;Casa & Vídeo *;SP;Energia Elétrica;1.571,30;BR;1.163,00;74;863,1;7.144,90;1
+586;-;Supermercado Festval;SP;Construção e Engenharia;1.579,50;BR;35,5;2,2;89,3;450,6;1
+587;501;Elekeiroz;SP;Comércio Atacadista e Exterior;1.581,70;BR;51,7;3,3;53,2;665,6;1
+588;563;Atmosfera *;SP;Química e Petroquímica;1.585,00;AL;-;-;-;-;1
+589;595;Teleperformance;SP;Mecânica;1.597,20;BR;114,8;7,2;201,6;1.046,30;1
+590;627;Taurus Armas *;RJ;Transportes e Logística;1.602,20;BM;121,4;7,6;556,1;2.005,30;1
+591;485;Triunfo 4 *;SP;Comércio Varejista;1.603,30;BR;-15,8;-1;198,8;1.145,10;0
+592;573;Laticínios Jussara;SP;Veículos e Peças;1.604,30;BR;190,7;11,9;344,8;463;1
+593;-;Transporte Rodoviário 1500;SP;Comércio Varejista;1.606,00;BR;-;-;-;-;1
+594;612;Barra Mansa Alimentos;RS;Serviços Médicos;1.612,80;BR;-16,9;-1;4,9;1.020,80;0
+595;664;Pet Center;SP;Energia Elétrica;1.616,90;BR;57,3;3,5;78,6;128,8;1
+596;613;Bartofil Distribuidora *;SP;Serviços Médicos;1.621,70;BR;94,8;5,8;178,8;939,5;1
+597;661;Blau *;RJ;Farmacêutica e Cosméticos;1.633,30;AL;66,2;4,1;208,9;1.023,20;1
+598;571;FQM *;SP;Açúcar e Álcool;1.634,80;BR;216,6;13,2;425,4;1.187,10;1
+599;634;CMAA ¹ *;RS;Alimentos e Bebidas;1.635,90;BR;76;4,6;141;361,1;1
+600;594;CET;SP;TI & Telecom;1.638,30;BR;125,2;7,6;407,3;1.188,70;1
+601;591;Aethra *;RJ;Petróleo e Gás;1.644,30;BR;635,9;38,7;1.415,60;1.879,10;1
+602;589;Santos Brasil *;MG;Petróleo e Gás;1.648,70;BR;5,4;0,3;21,5;24,8;1
+603;662;Cocatrel;RJ;Energia Elétrica;1.649,70;FR;212,1;12,9;460,8;1.309,90;1
+604;616;Trombini *;RS;Plásticos e Borracha;1.671,70;BR;99,8;6;225,8;322,7;1
+605;592;Sanasa;MG;Têxtil. Couro e Vestuário;1.679,20;BR;162,1;9,7;303,4;746,1;1
+606;601;Marilan;CE;Têxtil. Couro e Vestuário;1.687,70;BR;51,1;3;207,9;1.284,00;1
+607;602;Porto de Santos;SP;Plásticos e Borracha;1.688,10;AU;68;4;144,9;1.835,80;1
+608;670;Teuto;SP;Serviços Médicos;1.689,50;BR;19,1;1,1;183,4;656,4;1
+609;596;Mercantil Nova Era ²;MG;Construção e Engenharia;1.693,30;BR;162,2;9,6;373,6;418,6;1
+610;562;Tel;MG;Metalurgia e Mineração;1.698,70;EP;59,7;3,5;82;160;1
+611;471;Restoque 4 *;GO;Metalurgia e Mineração;1.699,40;CN;385,8;22,7;912,4;2.175,60;1
+612;772;Avibras *;SC;Agropecuária;1.706,80;BR;48,5;2,8;75,6;489,9;1
+613;614;Prodesp;SP;Açúcar e Álcool;1.717,60;BR/US;209,2;12,2;775,1;865;1
+614;632;Covabra ²;PR;Agropecuária;1.718,50;BR;23,1;1,3;88,8;271,6;1
+615;559;Mili;MG;Açúcar e Álcool;1.722,00;BR;-49,3;-2,9;989,3;1.474,00;0
+616;639;Holambra;SP;Comércio Varejista;1.724,20;BR;-141,9;-8,2;8,7;66,2;0
+617;585;Química Anastácio;SP;Transportes e Logística;1.736,00;US;-;-;-;-;1
+618;615;Stefanini IT Solution;SP;Transportes e Logística;1.744,60;BR;123,4;7,1;349,8;624,3;1
+619;464;Hidrovias do Brasil *;SP;Serviços Especializados;1.760,90;BR;47,1;2,7;494,7;861,5;1
+620;588;BBTS;SC;Comércio Varejista;1.762,00;BR;113,9;6,5;119,3;799,5;1
+621;566;Moinhos Cruzeiro do Sul;SP;Energia Elétrica;1.764,70;BR;459;26;801,7;1.207,40;1
+622;-;Ferroport *;SP;Comércio Varejista;1.771,00;AL;-;-;-;-;1
+623;532;Cotriel;RJ;Construção e Engenharia;1.777,40;BR;-268,6;-15,1;-100,8;1.637,00;0
+624;621;CenturyLink;CE;Têxtil. Couro e Vestuário;1.783,70;BR;239,5;13,4;416;949,2;1
+625;617;Rota das Bandeiras;PR;Mat. de Constr. e Decoração;1.786,00;BR;371;20,8;640,4;1.823,40;1
+626;572;Ticket;RJ;Energia Elétrica;1.795,00;BR;1.002,30;55,8;1.418,20;4.926,80;1
+627;593;Gomes da Costa *;CE;Alimentos e Bebidas;1.797,60;BR;-69,4;-3,9;51,1;477;0
+628;578;RJA *;SP;Açúcar e Álcool;1.803,00;BR;235,2;13;1.196,50;1.407,40;1
+629;553;Soares Penido *;RJ;Plásticos e Borracha;1.804,50;AL/SA;-11,7;-0,6;45,3;1.148,20;0
+630;618;Lupo *;SC;Eletroeletrônica;1.805,50;BR;194,4;10,8;221;749,3;1
+631;608;MGS;MG;Petróleo e Gás;1.815,10;BR;164,6;9,1;293,5;995,4;1
+632;582;Irani *;SP;Açúcar e Álcool;1.815,30;BR;137,4;7,6;692,3;1.110,00;1
+633;684;Sulgás;SP;Petróleo e Gás;1.819,60;BR;6,7;0,4;14,9;20,7;1
+634;686;Iguá *;DF;Comércio Atacadista e Exterior;1.831,50;BR;69,9;3,8;90,4;486;1
+635;-;Eleva *;BA;Comércio Atacadista e Exterior;1.844,00;BR;26;1,4;95,2;92,1;1
+636;550;Editora Globo *;SP;Farmacêutica e Cosméticos;1.851,90;BR;143,8;7,8;302,4;863,9;1
+637;638;Raymundo da Fonte *;SP;Alimentos e Bebidas;1.855,60;BR;36,1;1,9;120;57,3;1
+638;683;Editora Moderna;SP;Energia Elétrica;1.857,90;BR;7,6;0,4;8,9;58,1;1
+639;642;Pastifício Selmi;RS;Agropecuária;1.858,90;BR;109,3;5,9;129,9;600;1
+640;673;Jalles Machado ¹ *;SP;Farmacêutica e Cosméticos;1.861,20;US;-;-;-;-;1
+641;599;Protege;MG;Têxtil. Couro e Vestuário;1.865,80;BR;-42,4;-2,3;328,1;1.789,30;0
+642;648;Cejam;DF;Água e Saneamento;1.880,50;BR;149;7,9;252,4;1.404,80;1
+643;-;Pérola Distribuição;PE;Transportes e Logística;1.883,10;BR;32,7;1,7;38,5;209,3;1
+644;697;Adami *;PR;Açúcar e Álcool;1.884,40;BR;-984,3;-52,2;789,2;-484,9;0
+645;-;Terrafirme/Cassol *;SP;Serviços Especializados;1.887,70;BR;41,2;2,2;135,1;94,6;1
+646;663;Betânia Lácteos;SP;Mat. de Constr. e Decoração;1.893,60;AT;-493,1;-26;131,2;766,6;0
+647;771;Grupo Madero *;SP;Energia Elétrica;1.903,20;BR/AU;0;0;9,5;20,9;0
+648;646;Cesan;RJ;Comércio Varejista;1.908,60;BR;51,7;2,7;116,4;311;1
+649;-;CBF;SP;TI & Telecom;1.909,40;BR;231,4;12,1;237,2;1.150,00;1
+650;651;Cotricampo;SP;Empreendimentos Imobiliários;1.913,00;BR;142,7;7,5;182,9;1.877,40;1
+651;435;ATMA Participações 4 *;PR;TI & Telecom;1.915,30;BR;20,8;1,1;143,2;534,9;1
+652;-;Bristol-Myers Squibb;RJ;Transportes e Logística;1.924,00;AE/HO;-35,4;-1,8;521;771,2;0
+653;723;U&M Mineração e Construção *;SP;Transportes e Logística;1.924,40;EP/AG;114,2;5,9;355,6;1.394,80;1
+654;603;Rima;PR;Mat. de Constr. e Decoração;1.932,00;CL;-6,7;-0,3;206,6;1.851,90;0
+655;692;Brasal;PR;Agropecuária;1.935,10;BR;61;3,2;115,6;494,1;1
+656;647;Risa;RJ;Química e Petroquímica;1.944,10;US;59,8;3,1;112,3;664,2;1
+657;696;Bivi *;RS;Comércio Varejista;1.948,40;BR;43;2,2;127,5;130,7;1
+658;543;Stima Energia;SP;Empreendimentos Imobiliários;1.950,10;BR;264,4;13,6;322,4;1.351,70;1
+659;635;G4S Brasil;SP;Eletroeletrônica;1.958,10;JP;-;-;-;-;1
+660;665;Hospital Moinhos de Vento;MT;Agropecuária;1.962,00;BR;83,7;4,3;186,2;448,2;1
+661;672;Hospital Alemão Oswaldo Cruz;SP;Serviços Ambientais;1.974,70;BR;88,1;4,5;467,6;1.293,60;1
+662;-;OR *;SP;Serviços Especializados;1.983,90;BR;-339,3;-17,1;617,5;2.267,50;0
+663;682;Lorentzen *;SP;Serviços Especializados;2.003,00;BR;392,8;19,6;985,3;1.426,80;1
+664;-;Sandvik Holding *;RS;Comércio Varejista;2.003,10;BR;-11;-0,5;23,2;107,1;0
+665;619;Cacique;SP;Mecânica;2.004,40;EP;266,4;13,3;442,5;697,8;1
+666;657;Grupo Plaenge *;RJ;Serviços Especializados;2.008,00;US/BR;53,7;2,7;266,1;1.117,10;1
+667;660;Cagepa;BA;Química e Petroquímica;2.018,80;PN;-50,2;-2,5;49;166,1;0
+668;650;Copobras *;RS;Serviços Especializados;2.021,80;EP;585,4;29;1.340,70;2.611,80;1
+669;738;Fasa América Latina *;SP;Farmacêutica e Cosméticos;2.022,40;BR;560,8;27,7;743,5;2.998,00;1
+670;751;Aeris Energy;SP;Química e Petroquímica;2.033,90;JP;290,7;14,3;318;1.664,60;1
+671;724;Gás Natural São Paulo Sul;SP;Energia Elétrica;2.049,70;BR/US;300,1;14,6;1.036,30;1.451,20;1
+672;653;PUC Minas;CE;Têxtil. Couro e Vestuário;2.071,00;BR;495;23,9;430,8;3.682,40;1
+673;851;Construtora Ferreira Guedes;MG;Alimentos e Bebidas;2.072,60;BR;241,2;11,6;211,3;395;1
+674;739;Pesa *;MG;Alimentos e Bebidas;2.081,30;BR;239,3;11,5;264,3;455;1
+675;699;Coopercarga;MG;Metalurgia e Mineração;2.087,80;AS;146,7;7;423,2;1.837,10;1
+676;606;TenarisConfab *;PE;Água e Saneamento;2.089,10;BR;212,9;10,2;270,8;6.224,50;1
+677;709;Abimex *;RJ;Serviços Ambientais;2.115,20;BR;59,2;2,8;ND;-272,4;1
+678;674;Camda;RJ;Metalurgia e Mineração;2.129,30;AU;343,7;16,1;802;3.148,80;1
+679;514;Kroma Energia;SP;Eletroeletrônica;2.132,50;FI;-142,2;-6,7;-43,5;711;0
+680;680;SuperVia *;PE;Química e Petroquímica;2.136,40;MX;166,6;7,8;222,2;1.513,50;1
+681;-;EZ TEC *;SP;Serviços Médicos;2.137,00;BR;-81,2;-3,8;-15,4;1.000,10;0
+682;645;Coopermota;BA;Petróleo e Gás;2.171,00;BR;8;0,4;20,5;59,8;1
+683;-;Divena Caminhões;SP;Açúcar e Álcool;2.178,40;BR;148,3;6,8;1.087,40;787,1;1
+684;768;Rip *;SP;Agropecuária;2.194,30;SU;102,2;4,7;220,4;319;1
+685;831;Trisul *;SP;Transportes e Logística;2.212,30;BR;-874,5;-39,5;1.384,20;-1.793,20;0
+686;611;Carta Fabril *;ES;Comércio Atacadista e Exterior;2.214,20;BR;88,5;4;92,3;127,1;1
+687;691;GPC Participações 4 *;SP;Comunicação e Gráfica;2.214,50;BR;50,4;2,3;181,1;301,1;1
+688;-;PUC PR;MG;Metalurgia e Mineração;2.221,40;GB;421,8;19;724,9;5.071,00;1
+689;668;Nadir Figueiredo *;RS;Comércio Atacadista e Exterior;2.225,00;BR;90,8;4,1;172,9;311,7;1
+690;730;Empresa Construtora Brasil;PR;Veículos e Peças;2.251,10;EP;89,1;4;309,3;524,6;1
+691;716;Linx *;SP;Água e Saneamento;2.263,10;CN/BR;336,5;14,9;845,5;2.418,80;1
+692;737;Moinho Cearense *;SP;Comércio Varejista;2.265,10;BR;7;0,3;77,5;533,2;1
+693;-;Newcom Energia;SP;Comércio Atacadista e Exterior;2.265,20;BR;29,1;1,3;76,7;73,5;1
+694;637;Camnpal;SC;Comércio Varejista;2.272,60;BR;30;1,3;55,7;226,5;1
+695;707;Le Biscuit *;SP;Serviços Médicos;2.274,80;BR;-;-;-;-;1
+696;774;Dori Alimentos;SP;TI & Telecom;2.282,10;BR/US;210,6;9,2;429;2.478,40;1
+697;800;Compagas;SP;TI & Telecom;2.291,70;MX;-1.169,90;-51;ND;-9.023,40;0
+698;718;China Brasil Tabacos;SP;Comércio Atacadista e Exterior;2.293,20;BR;-;-;-;-;1
+699;687;Romi *;SP;Metalurgia e Mineração;2.308,10;US;140,3;6,1;597,1;5.758,40;1
+700;719;Technicolor;MS;Petróleo e Gás;2.314,70;BR;38;1,6;59,3;183,8;1
+701;856;Suécia Veículos;SP;Serviços Médicos;2.319,60;BR;-76,7;-3,3;-71,3;-285,3;0
+702;735;FTD;RS;Agropecuária;2.324,00;BR;73;3,1;125,3;562,9;1
+703;-;Nórdica Veículos;AL;Açúcar e Álcool;2.326,10;BR;92,4;4;903,3;1.454,50;1
+704;630;Unicafé *;SP;Comércio Atacadista e Exterior;2.329,40;BR;35,7;1,5;48,9;381,9;1
+705;656;Santa Joana;BA;Petróleo e Gás;2.335,20;BR;93,9;4;125,7;609,1;1
+706;700;Iguatemi Shopping Centers *;PE;Química e Petroquímica;2.346,40;TL;-20,7;-0,9;186,5;721,6;0
+707;712;Cremer *;MG;Comércio Varejista;2.363,80;BR;15,8;0,7;79,8;331,2;1
+708;640;Terra Santa Agro *;SP;TI & Telecom;2.371,50;BR;57,2;2,4;425,5;482,5;1
+709;705;Fraport Brasil - Porto Alegre;CE;Metalurgia e Mineração;2.377,40;BR;896,7;37,7;1.109,60;910,8;1
+710;-;Cocapec;GO;Água e Saneamento;2.390,90;BR;315,7;13,2;587,3;2.801,30;1
+711;658;Construcap *;PR;Comércio Varejista;2.408,70;BR;53,1;2,2;ND;413,6;1
+712;-;Afya *;SP;Alimentos e Bebidas;2.423,90;JP;-;-;-;-;1
+713;706;Vilma Alimentos *;SP;Comércio Varejista;2.425,20;BR;80;3,3;162,6;435,6;1
+714;764;Mor;MG;Comércio Varejista;2.432,80;BR;20,5;0,8;116,5;194,5;1
+715;971;Elecnor;SP;Alimentos e Bebidas;2.446,70;BR;175,4;7,2;244,3;4.697,60;1
+716;-;Aliansce Sonae *;ES;Comércio Atacadista e Exterior;2.452,70;BR;74;3;117,7;151,8;1
+717;785;Rede Sol Fuel;SP;TI & Telecom;2.455,00;AL;-;-;-;-;1
+718;757;Nitro Química *;SC;Comércio Varejista;2.463,00;BR;-;-;-;-;1
+719;644;CBC Cartucho;AM;Petróleo e Gás;2.474,80;BR;60,1;2,4;85,8;176,8;1
+720;841;Grupo Diniz *;AM;Química e Petroquímica;2.506,30;BR;119;4,7;305;1.872,20;1
+721;685;Grupo Maringá *;SP;Farmacêutica e Cosméticos;2.520,80;HO;59,6;2,4;210,2;2.010,50;1
+722;731;Solfarma;SP;Veículos e Peças;2.526,20;AL;255,9;10,1;440,8;1.297,00;1
+723;701;AEC;RJ;Petróleo e Gás;2.527,40;NO;-615,3;-24,3;224,1;26.544,20;0
+724;741;Europ Assistance Brasil *;SP;Comércio Varejista;2.545,40;BR;309,7;12,2;684,8;1.168,70;1
+725;762;Ceva Logistics;RJ;Energia Elétrica;2.568,00;BR/FR;-95,7;-3,7;1.634,70;9.155,30;0
+726;773;Servopa;SP;Petróleo e Gás;2.574,40;BR;49,3;1,9;139;354,2;1
+727;887;Wam Brasil *;PA;Metalurgia e Mineração;2.589,40;NO/BR/JP;-299,3;-11,6;-248,3;1.861,00;0
+728;942;Plano&Plano *;SP;Comércio Atacadista e Exterior;2.594,00;BR;42,2;1,6;ND;291,7;1
+729;693;Mineração Taboca *;SP;Serviços Médicos;2.605,10;BR;187,3;7,2;191,6;2.332,00;1
+730;750;Usina Nardini ¹ *;RJ;Petróleo e Gás;2.610,00;BR;-;-;-;-;1
+731;740;B. Braun;MG;Papel e Celulose;2.610,70;JP;552,9;21,2;1.282,30;4.901,00;1
+732;722;Grupo Sponchiado Veículos *;SP;Metalurgia e Mineração;2.611,40;CH;19,5;0,7;678,3;2.428,20;1
+733;776;LPA;SP;Açúcar e Álcool;2.618,40;BR;95,4;3,6;740,7;2.400,60;1
+734;736;Nexans;MG;Petróleo e Gás;2.621,80;BR;-8,6;-0,3;1,8;181,6;0
+735;703;OMNI Táxi Aéreo *;MG;Metalurgia e Mineração;2.628,70;US;151,9;5,8;463,9;5.991,70;1
+736;-;OEngenharia;CE;Química e Petroquímica;2.630,40;BR/AU;96,3;3,7;239,8;741,3;1
+737;689;Dobrevê Participações *;PR;Agropecuária;2.658,90;BR;74,2;2,8;234,2;366;1
+738;842;Alog *;SP;Serviços Especializados;2.672,10;HO;544,2;20,4;1.231,40;923,7;1
+739;777;Serra Grande *;PR;Química e Petroquímica;2.683,20;HO;137,4;5,1;161,6;665,3;1
+740;-;Ouro Verde *;SP;Alimentos e Bebidas;2.709,50;BR;-162,1;-6;4,4;302,9;0
+741;711;Concessionária Viracopos 4 *;SP;Transportes e Logística;2.716,10;BR;-237,3;-8,7;232,3;9.785,40;0
+742;802;ALD Automotive;MG;Alimentos e Bebidas;2.720,10;BR;-59,6;-2,2;15,1;522,9;0
+743;625;Petrocoque;RS;Comércio Varejista;2.724,70;BR;76,8;2,8;215,1;524,2;1
+744;-;Kingspan Isoeste *;RJ;Petróleo e Gás;2.733,40;EP/BR;110;4;227,7;372;1
+745;810;Apsen Farmacêutica;PR;Alimentos e Bebidas;2.739,40;BR;62,7;2,3;137,9;575;1
+746;746;Sapura *;DF;Energia Elétrica;2.749,70;BR;156,6;5,7;311,7;1.000,70;1
+747;-;Grupo RMC ² *;DF;Transportes e Logística;2.762,90;BR;-149,6;-5,4;-179,8;1.905,80;0
+748;-;Grupo SEB *;MG;Comércio Atacadista e Exterior;2.770,10;BR;209,6;7,6;311,8;729,9;1
+749;727;Dip Frangos;RS;Têxtil. Couro e Vestuário;2.771,30;BR;398,4;14,4;355,4;1.594,10;1
+750;-;Hydro Extrusion Brasil;PA;Comércio Varejista;2.778,10;BR;32,5;1,2;ND;154,8;1
+751;753;PUC Campinas;SP;Transportes e Logística;2.811,20;BR;-599,4;-21,3;-68,3;33.145,30;0
+752;-;Wiz *;PR;Agropecuária;2.837,80;BR;118,1;4,2;147,7;1.006,80;1
+753;922;Agra Agroindustrial;RS;Água e Saneamento;2.849,50;BR;301,2;10,6;766,6;2.400,30;1
+754;728;TCP *;DF;TI & Telecom;2.859,10;BR;486,8;17;597,2;987,3;1
+755;-;Unisys *;SP;Água e Saneamento;2.868,00;BR;294,4;10,3;1.191,90;1.810,00;1
+756;704;RedePetro;SP;Comércio Varejista;2.868,00;BR;48,5;1,7;427,6;1.786,60;1
+757;759;Lojas Avenida *;MG;TI & Telecom;2.871,10;BR;302,7;10,5;1.061,60;1.323,20;1
+758;748;Cedro Têxtil *;SP;Comércio Varejista;2.882,40;BR;-112,4;-3,9;394,9;1.420,00;0
+759;796;CI&T *;SP;Alimentos e Bebidas;2.883,40;BR;-187,6;-6,5;78,7;456,8;0
+760;791;Expresso Nepomuceno *;SP;Serviços Médicos;2.883,50;BR;186,2;6,5;521,3;753,4;1
+761;839;Brasilgráfica;SP;Serviços Médicos;2.905,10;BR;312,3;10,8;880,6;1.759,00;1
+762;893;Romagnole *;SC;Plásticos e Borracha;2.909,70;BR;111,4;3,8;ND;1.261,90;1
+763;749;Hospital de Base;SP;Energia Elétrica;2.916,00;BR;2,9;0,1;10,4;164,1;1
+764;821;Nortel Suprimentos;SP;Energia Elétrica;2.947,80;LX;184,8;6,3;282,4;250,4;1
+765;417;Editora Saraiva 4 *;RS;Química e Petroquímica;3.016,30;BR;129,9;4,3;203,1;327,3;1
+766;-;Barra Energia;RJ;Metalurgia e Mineração;3.034,50;US;362,6;11,9;428,5;1.414,80;1
+767;752;Caern;SP;Química e Petroquímica;3.048,70;BR;172,4;5,7;580,6;1.483,20;1
+768;677;Tempo USS *;SP;TI & Telecom;3.098,60;SE;178;5,7;312,2;647,1;1
+769;862;Soufer;SP;Comércio Varejista;3.101,60;BR;104,1;3,4;190,9;779,7;1
+770;714;CTA;SP;Comércio Varejista;3.108,80;BR;101,5;3,3;17,6;572,9;1
+771;-;Distribuidora Fartura;RS;Veículos e Peças;3.109,70;US;-;-;-;-;1
+772;-;Usina Caeté ¹;RS;Agropecuária;3.121,80;BR;317,6;10,2;687,1;3.432,20;1
+773;786;Boa Vista;RJ;Energia Elétrica;3.137,40;BR;599,1;19,1;1.456,70;6.900,10;1
+774;681;INB;ES;Comércio Atacadista e Exterior;3.154,20;BR;55,6;1,8;67;317,6;1
+775;804;Primato Cooperativa;SP;Serviços Médicos;3.164,60;BR;488,8;15,4;697;3.441,30;1
+776;941;Melhoramentos ¹ ³ *;RJ;Comércio Varejista;3.171,10;BR;42,7;1,3;ND;464,4;1
+777;778;M. A. Máquinas;SP;Energia Elétrica;3.197,50;BR;-951,8;-29,8;1.459,40;3.704,80;0
+778;720;Coagru;RJ;Transportes e Logística;3.200,80;BR;503,4;15,7;1.963,90;4.102,50;1
+779;-;SG Comércio Exterior;PR;Agropecuária;3.234,70;BR;78,1;2,4;190,8;657,2;1
+780;769;Helibras *;SP;Serviços Especializados;3.249,80;US;-60;-1,8;387,3;294,9;0
+781;946;Ticket Log *;SP;Química e Petroquímica;3.265,10;FR/BR;-;-;-;-;1
+782;820;Aesc;MG;Metalurgia e Mineração;3.285,70;CN;662,8;20,2;1.407,70;5.496,40;1
+783;-;Thomson Reuters Brasil *;MG;Metalurgia e Mineração;3.288,60;AT;-166,7;-5,1;240,4;2.233,40;0
+784;733;Cotrisel;SP;Farmacêutica e Cosméticos;3.294,70;BR;1.164,00;35,3;1.181,10;8.710,10;1
+785;788;Enercan;SP;Energia Elétrica;3.305,20;CO/BR;1.779,50;53,8;2.361,10;13.761,60;1
+786;823;Scherer;PR;Petróleo e Gás;3.314,20;BR;20,9;0,6;38,5;66,7;1
+787;835;Brametal;SP;Comércio Atacadista e Exterior;3.314,70;BR;10,2;0,3;119,7;79,6;1
+788;783;BSP Empreendimentos Imobiliários *;SP;Química e Petroquímica;3.322,70;BR;27,3;0,8;422,9;366,7;1
+789;845;Cotrisul;PR;Agropecuária;3.345,30;BR;66,5;2;161;1.239,80;1
+790;732;Titan Pneus;SP;Farmacêutica e Cosméticos;3.350,50;BR;721,3;21,5;1.083,40;1.697,20;1
+791;784;Santa Casa da Bahia;RJ;Petróleo e Gás;3.350,80;NO;-100,4;-3;1.112,70;6.345,80;0
+792;710;Agropan;RJ;Serviços Médicos;3.352,80;US;3,3;0,1;168,8;4.516,20;1
+793;742;Capgemini *;PR;Agropecuária;3.360,10;BR;194,7;5,8;337,2;1.410,10;1
+794;782;Leo Madeiras;RJ;Transportes e Logística;3.377,10;EP;48,4;1,4;217,2;311,4;1
+795;-;Delga Participações *;SP;Transportes e Logística;3.421,70;JP;8,4;0,2;36,5;226,6;1
+796;903;JHSF *;GO;Alimentos e Bebidas;3.429,30;BR;301,3;8,8;378,8;1.193,60;1
+797;793;Iaco Agrícola;RJ;Alimentos e Bebidas;3.467,00;CL;-;-;-;-;1
+798;787;Auriverde;SP;Eletroeletrônica;3.521,70;AL;-;-;-;-;1
+799;798;Engepack São Paulo;SC;Agropecuária;3.522,80;BR;148,9;4,2;218,7;1.434,90;1
+800;989;MadeiraMadeira;RJ;Transportes e Logística;3.560,70;BR;-2.070,90;-58,2;1.124,50;-280,2;0
+801;844;Krona *;SP;Farmacêutica e Cosméticos;3.563,20;SU;-50,5;-1,4;19,5;201,6;0
+802;855;Grupo Embramaco;RJ;Educação e Ensino;3.565,00;US/BR;646,1;18,1;1.261,00;3.102,40;1
+803;763;Nova Rio;BA;Água e Saneamento;3.579,70;BR;185,9;5,2;541,2;5.839,60;1
+804;794;OuroFino Saúde Animal *;SP;TI & Telecom;3.622,50;US;-;-;-;-;1
+805;522;Clealco 1 4 *;BA;Petróleo e Gás;3.632,10;BR;8,1;0,2;37,7;28,4;1
+806;775;Anaconda;SP;Açúcar e Álcool;3.693,90;BR;639;17,3;2.435,80;3.346,70;1
+807;806;Abengoa Bioenergia Brasil 4 *;SP;TI & Telecom;3.711,30;US/BR;100,6;2,7;222,7;970,1;1
+808;853;Orquídea Alimentos;SP;Têxtil. Couro e Vestuário;3.712,20;BR;259,3;7;531,7;2.734,60;1
+809;745;Racional Engenharia;DF;Serviços Especializados;3.784,40;BR;-246,2;-6,5;-155;523,4;0
+810;795;Faber Castell ¹ *;SP;Transportes e Logística;3.863,50;EP/CN;-36,9;-1;1.498,50;6.421,10;0
+811;-;Jadlog;SP;Farmacêutica e Cosméticos;3.917,20;BR;418,1;10,7;613,5;1.159,20;1
+812;991;Entrevias;SP;Empreendimentos Imobiliários;3.930,80;BR;534,3;13,6;664,6;5.175,40;1
+813;981;Grupo Olho D'Água *;SP;Transportes e Logística;3.952,90;IT;-185,5;-4,7;1.363,00;455,4;0
+814;-;Betunel;SP;Farmacêutica e Cosméticos;3.954,40;CN;450,3;11,4;711,6;2.069,60;1
+815;824;Supermercados Avenida;PR;Agropecuária;3.955,90;BR;130,3;3,3;173,2;713,6;1
+816;-;Diferencial Energia *;TO;Química e Petroquímica;3.965,10;SU/BR;127,2;3,2;295,5;214;1
+817;-;Coprodia;RS;Plásticos e Borracha;3.971,90;BR;357,1;9;988,8;2.082,40;1
+818;721;Fuga *;SP;Serviços Especializados;3.984,90;BR;1.381,30;34,7;1.975,10;7.486,20;1
+819;873;BBM *;CE;Alimentos e Bebidas;3.989,30;HO/BR;299,2;7,5;446,1;1.169,60;1
+820;805;Cemed Care;MG;Metalurgia e Mineração;3.995,60;LX;58,5;1,5;552;2.222,10;1
+821;811;Deso;SP;Serviços Especializados;4.007,40;HO;150,5;3,8;399,6;1.580,20;1
+822;815;Morlan;RS;Papel e Celulose;4.018,50;CL;654,5;16,3;2.258,20;10.133,30;1
+823;766;Lojas MM;SP;Farmacêutica e Cosméticos;4.082,00;US;-;-;-;-;1
+824;847;General Cable Brasil;GO;Alimentos e Bebidas;4.104,40;BR;238,3;5,8;332,9;995,3;1
+825;-;Construtora Barbosa Mello *;PR;Alimentos e Bebidas;4.111,90;BR;349,2;8,5;638,4;1.538,60;1
+826;-;Skopos Energia;SP;Comércio Varejista;4.168,60;BR;268,7;6,4;729,4;1.989,30;1
+827;869;South Service *;RS;Alimentos e Bebidas;4.181,20;BR;152,9;3,7;196,5;753,5;1
+828;-;Trail Infraestrutura;MG;Agropecuária;4.197,20;BR;378,1;9;438,2;1.349,00;1
+829;889;Saint-Gobain Canalização *;SP;Energia Elétrica;4.229,10;BR;326,2;7,7;336,7;3.125,10;1
+830;861;NEOBPO;SP;Serviços Especializados;4.259,20;BR;965,7;22,7;1.287,70;17.126,80;1
+831;458;Queiroz Galvão Energia 4 *;SP;Veículos e Peças;4.263,30;AL;-;-;-;-;1
+832;807;BCPar *;RJ;Energia Elétrica;4.269,80;CH;1.196,40;28;2.447,70;13.113,60;1
+833;883;Casa Granado *;SP;Papel e Celulose;4.270,70;BR;541,3;12,7;2.015,60;3.449,40;1
+834;914;Grupo Fragnani *;MG;Comércio Atacadista e Exterior;4.271,20;BR;133,1;3,1;133,6;489,9;1
+835;-;Rio Quente Resorts/Hot Park *;CE;Alimentos e Bebidas;4.273,10;BR;222,1;5,2;606,5;1.846,10;1
+836;708;Viena;SP;Farmacêutica e Cosméticos;4.283,60;FR;815,7;19;ND;3.322,10;1
+837;760;Tronox Pigmentos;RS;Veículos e Peças;4.314,50;BR;212;4,9;338;2.358,40;1
+838;747;Echoenergia *;SP;Química e Petroquímica;4.317,00;US;-;-;-;-;1
+839;-;Coplana ¹;SP;Comércio Varejista;4.351,70;BR;347,5;8;753;3.601,80;1
+840;849;Tabocas;SP;Serviços Médicos;4.364,60;BR;130,2;3;853,9;3.263,40;1
+841;803;Kepler Weber *;RS;Energia Elétrica;4.385,10;BR;-693,2;-15,8;-19,5;-1.082,10;0
+842;931;Eurobike *;PR;Agropecuária;4.389,90;BR;147,1;3,4;242,7;1.177,90;1
+843;854;Ecourbis;RJ;Transportes e Logística;4.406,20;CN/CG/CH/BR;2.217,50;50,3;4.015,80;2.640,90;1
+844;834;Mueller *;RS;Petróleo e Gás;4.418,40;BR;17,3;0,4;66,5;169,9;1
+845;799;Imec *;PR;Comércio Varejista;4.451,70;BR;346,3;7,8;485,3;1.821,10;1
+846;826;São Braz;GO;Agropecuária;4.453,30;BR;113;2,5;196,4;1.589,00;1
+847;-;Arco Educação;SP;Química e Petroquímica;4.480,30;US;298,8;6,7;38,7;3.268,50;1
+848;860;Arroz Cristal;SP;Farmacêutica e Cosméticos;4.525,00;US;-;-;-;-;1
+849;725;Inbrands *;SP;Açúcar e Álcool;4.548,90;BR;-1.439,00;-31,6;1.663,00;1.065,10;0
+850;819;Estrela *;SP;Agropecuária;4.566,60;BR;137,8;3;264,5;1.203,00;1
+851;-;Transwolff;SP;Energia Elétrica;4.592,10;BR;1.641,40;35,7;2.557,70;7.540,10;1
+852;780;Globalpar Energia *;RJ;Petróleo e Gás;4.631,10;EP/BR;372,9;8,1;730,4;913;1
+853;659;Pacaembu Construtora *;SP;Comércio Atacadista e Exterior;4.652,30;BR;-65,6;-1,4;-104,2;203,7;0
+854;919;Cimento Itambé *;PR;Água e Saneamento;4.722,80;BR;1.080,00;22,9;1.971,70;6.173,90;1
+855;864;Ocrim;SP;Papel e Celulose;4.743,00;US;-;-;-;-;1
+856;850;Simpress;SP;Comércio Atacadista e Exterior;4.751,20;BR;143,7;3;173,8;533,3;1
+857;934;Gas Brasiliano Distribuidora;SP;Transportes e Logística;4.798,60;BR/PT/US;338,1;7;1.269,90;3.904,40;1
+858;879;Sanesul;RJ;Comércio Atacadista e Exterior;4.801,30;BR;12;0,2;156,7;1.004,60;1
+859;431;Fidelity *;SP;TI & Telecom;4.819,20;BR;1.555,00;32,3;191,3;15.115,00;1
+860;957;Da Mata Açúcar e Álcool;SP;Farmacêutica e Cosméticos;4.828,10;BR;579,2;12;906,9;2.476,40;1
+861;912;Mangels *;SP;Energia Elétrica;4.844,70;CH;1.343,70;27,7;3.197,40;13.748,40;1
+862;884;Concremat *;RS;Comércio Varejista;4.849,00;BR;-;-;-;-;1
+863;-;You. Inc. *;SP;Farmacêutica e Cosméticos;4.901,00;US;-;-;-;-;1
+864;872;Guararapes Painéis;SP;Mat. de Constr. e Decoração;5.011,70;BR;405,7;8,1;1.359,20;4.932,20;1
+865;838;Usina São João ¹ *;SP;Química e Petroquímica;5.015,90;IN;-474,1;-9,5;191,3;634,4;0
+866;926;Pettenati ¹ *;RJ;Comércio Atacadista e Exterior;5.027,20;BR;312,7;6,2;544,4;922;1
+867;-;Uninter;SP;Veículos e Peças;5.038,50;AL;-;-;-;-;1
+868;818;Unilider;RS;Veículos e Peças;5.092,40;BR;300,5;5,9;685,9;2.176,00;1
+869;885;Penha;SP;Alimentos e Bebidas;5.110,00;US;-;-;-;-;1
+870;813;Usina Santa Fé ¹;MG;Água e Saneamento;5.157,20;BR;754,4;14,6;1.758,50;6.743,70;1
+871;901;Maqcampo;SP;Construção e Engenharia;5.158,10;BR;-16.034,10;-310,8;-2.376,50;-11.141,20;0
+872;-;Cegás;SC;Metalurgia e Mineração;5.163,60;BR;278,9;5,4;682,6;2.387,40;1
+873;827;Mercado Joanin;RJ;Transportes e Logística;5.195,00;FR/CN;2.111,00;40,6;4.401,00;9.828,00;1
+874;781;Minasligas *;SP;Comércio Varejista;5.220,00;EP;-;-;-;-;1
+875;828;Piramidal *;BA;Metalurgia e Mineração;5.227,60;BR;-25,1;-0,5;288,5;621,4;0
+876;-;Scheffer Participações *;SP;Metalurgia e Mineração;5.263,70;BR;-34,5;-0,7;707;5.060,10;0
+877;825;Liasa;SP;Transportes e Logística;5.264,50;BR/JP;98,7;1,9;2.425,60;9.091,40;1
+878;-;Novênio Pavan Participações *;SP;Comércio Varejista;5.285,20;SU;972;18,4;1.561,80;2.739,60;1
+879;868;Pearson Education *;MG;Metalurgia e Mineração;5.390,30;FR;502;9,3;1.288,50;6.169,40;1
+880;-;Agroterenas ¹ *;SP;Alimentos e Bebidas;5.396,10;BR;239,6;4,4;441,7;2.249,40;1
+881;896;Agility;PR;Farmacêutica e Cosméticos;5.450,00;BR;754,4;13,8;1.232,10;2.363,70;1
+882;-;Cia. Iguaçu de Café Solúvel ¹ *;SP;Comércio Varejista;5.469,00;HO;-;-;-;-;1
+883;840;HTB;ES;Transportes e Logística;5.522,20;BR;268,2;4,9;729,6;1.444,60;1
+884;-;Engeform *;SP;Serviços Especializados;5.769,00;AG;-;-;-;-;1
+885;944;Hospital Santa Lúcia;GO;Comércio Varejista;5.789,20;BR;90,6;1,6;265,5;266,4;1
+886;-;Asperbras *;RJ;Petróleo e Gás;5.830,60;EP/CH;1.846,20;31,7;3.433,90;32.862,00;1
+887;897;JCPM *;PR;Eletroeletrônica;5.872,20;CN;214,4;3,7;480,7;1.445,40;1
+888;890;Supra;SP;Serviços Especializados;5.907,80;BR;2.713,20;45,9;4.262,40;25.401,20;1
+889;894;Lojas Koerich;SP;Serviços Especializados;5.988,80;BR;807,8;13,5;1.141,00;3.246,50;1
+890;-;All Nations;SP;Serviços Médicos;5.999,90;BR;22,8;0,4;80,1;-80,6;1
+891;-;Fagundes Mineração *;PA;Metalurgia e Mineração;6.021,70;NO;1,7;0;967,9;3.517,80;0
+892;998;Rodobens Veículos Comerciais;MG;Empreendimentos Imobiliários;6.055,70;BR;747,9;12,3;827,8;5.108,80;1
+893;814;Viapar;SP;Comércio Atacadista e Exterior;6.088,30;HO;23,6;0,4;-190,1;213,4;1
+894;923;Nakata;CE;Alimentos e Bebidas;6.103,60;BR;556,9;9,1;772,1;6.035,00;1
+895;846;Proforte;RJ;Água e Saneamento;6.123,00;BR;1.022,90;16,7;1.327,10;7.277,70;1
+896;892;T-Systems do Brasil *;MG;Comércio Varejista;6.177,00;BR;-;-;-;-;1
+897;915;Casal;RJ;Comércio Atacadista e Exterior;6.299,10;SU;-20,9;-0,3;-27,3;771,8;0
+898;852;Flex Gestão de Relacionamentos *;CE;Comércio Varejista;6.422,20;BR;-6,9;-0,1;468,8;1.024,50;0
+899;964;Hospital Santa Paula;SP;Açúcar e Álcool;6.538,10;FR;-1.551,20;-23,7;2.262,50;-1.006,70;0
+900;829;Crios;PR;Agropecuária;6.695,80;BR;230,8;3,4;585,3;1.648,90;1
+901;904;Usina São Manoel ¹;MG;Metalurgia e Mineração;6.744,50;GB;5.860,30;86,9;6.200,10;10.683,90;1
+902;876;Gontijo;MG;Educação e Ensino;7.027,20;BR;242,6;3,5;2.178,60;15.835,30;1
+903;959;Marquise Serviços Ambientais *;PR;Transportes e Logística;7.087,80;BR;785,9;11,1;3.829,40;8.614,30;1
+904;877;Guanabara;SP;Veículos e Peças;7.113,00;AL;-;-;-;-;1
+905;907;Hospital Nipo Brasileiro;SP;Metalurgia e Mineração;7.521,20;IN;-;-;-;-;1
+906;695;Energética Suape II;SE;Comércio Varejista;7.728,00;CL;-;-;-;-;1
+907;908;PUC SP;SP;Eletroeletrônica;7.742,20;US;1.776,40;22,9;1.934,20;3.019,10;1
+908;940;Adobe Serviços Cadastrais;RN;Comércio Varejista;7.808,00;BR;592,7;7,6;1.318,80;5.224,60;1
+909;837;CPRM;SC;Energia Elétrica;8.015,90;BR;283,6;3,5;724,8;1.407,10;1
+910;-;Rousselot Gelatinas;RJ;Petróleo e Gás;8.054,40;HO/LX;1.151,40;14,3;3.195,60;9.035,30;1
+911;956;Tanac *;MA;Comércio Varejista;8.071,00;BR;406;5;616,5;2.344,80;1
+912;927;Santa Vitória *;MG;Veículos e Peças;8.275,00;IT;-;-;-;-;1
+913;870;Odebrecht Transport *;SP;Mat. de Constr. e Decoração;8.279,00;FR;-;-;-;-;1
+914;-;Rivelli;SP;Química e Petroquímica;8.503,50;AL;595,6;7;904,1;3.144,70;1
+915;909;Döhler *;PR;Veículos e Peças;8.520,00;SE;-;-;-;-;1
+916;-;Saudali;MG;Metalurgia e Mineração;8.620,90;BR;2.967,30;34,4;5.359,20;1.721,90;1
+917;943;Santa Casa BH;PR;Agropecuária;8.830,40;BR;300,6;3,4;612,7;2.128,80;1
+918;978;Ferrari ¹;MG;Metalurgia e Mineração;9.200,00;BR;-609;-6,6;798;10.329,00;0
+919;832;Portonave *;RS;Comércio Varejista;9.588,40;US/BR;1.099,10;11,5;2.373,70;4.704,60;1
+920;822;A. Yoshii Engenharia *;SP;Transportes e Logística;9.686,20;BR;318,6;3,3;2.115,90;2.380,00;1
+921;880;Móveis Itatiaia *;SP;Comércio Varejista;9.735,10;BR;245;2,5;1.019,10;1.765,30;1
+922;867;Urânio Distribuidora;SC;Energia Elétrica;9.804,50;FR;2.311,10;23,6;5.158,20;6.998,80;1
+923;929;Ibema;SC;Alimentos e Bebidas;9.920,80;BR;543,3;5,5;753,8;2.214,10;1
+924;928;Polo Films *;SP;Veículos e Peças;10.016,40;BR;421,4;4,2;1.095,80;3.497,00;1
+925;-;Atlantic *;MG;Transportes e Logística;10.195,60;BR;833,9;8,2;2.212,80;5.447,50;1
+926;848;Eternit 4 *;SP;Papel e Celulose;10.271,80;BR;714,6;7;4.719,80;6.501,30;1
+927;955;Todeschini *;PR;Química e Petroquímica;10.284,20;BR;882,8;8,6;1.171,90;2.522,50;1
+928;917;Dacarto;SP;Açúcar e Álcool;10.514,00;FR;-470;-4,5;1.012,00;5.303,00;0
+929;863;Goiasa;SP;Transportes e Logística;10.590,80;BR;1.426,50;13,5;5.489,40;8.439,70;1
+930;574;Nov Flexibles;SP;Comércio Atacadista e Exterior;10.594,00;LX;53,5;0,5;56,6;569,4;1
+931;916;Mundial *;SP;Serviços Especializados;11.347,30;BR;1.789,60;15,8;3.026,10;15.064,90;1
+932;962;Brasilata *;SP;Transportes e Logística;11.442,30;BR;-2.403,10;-21;2.475,50;-3.519,20;0
+933;-;Grupo Ambipar *;SP;Química e Petroquímica;12.666,20;AL;678,7;5,4;1.538,40;4.822,80;1
+934;948;Binatural;RN;Petróleo e Gás;12.900,00;BR/SU;-79,1;-0,6;140,6;546,5;0
+935;925;Grazziotin *;SP;Mat. de Constr. e Decoração;13.027,00;BR;549,2;4,2;2.878,20;12.274,40;1
+936;951;Super Luna;SP;Alimentos e Bebidas;13.080,00;MX;629,2;4,8;1.757,60;5.772,70;1
+937;866;Capebe;PR;Agropecuária;13.195,60;BR;792,4;6;1.035,20;5.559,10;1
+938;-;Compar;PR;Veículos e Peças;13.310,20;FR;85;0,6;933,4;2.145,70;1
+939;990;Belcar *;SP;Serviços Médicos;13.319,80;BR;1.191,50;8,9;3.484,60;5.442,00;1
+940;913;Multilog *;SC;Mecânica;13.347,40;BR;1.632,50;12,2;2.244,50;8.930,00;1
+941;945;Cia. Muller de Bebidas *;RJ;Energia Elétrica;13.389,60;BR;1.327,80;9,9;1.874,50;6.230,50;1
+942;875;Simple Energy Comercializadora;SP;Transportes e Logística;13.864,70;BR;179,3;1,3;3.860,70;-7.105,40;1
+943;984;ADP Systems;RJ;Comunicação e Gráfica;14.090,90;BR;752,5;5,3;1.052,50;15.897,80;1
+944;980;Marquise *;DF;Energia Elétrica;14.143,00;BR/PG;-;-;-;-;1
+945;-;Grupo Estado *;SP;Farmacêutica e Cosméticos;14.444,70;BR;392,4;2,7;2.468,70;3.392,70;1
+946;900;Cyrela Commercial Properties *;SP;Alimentos e Bebidas;14.488,00;SU;-;-;-;-;1
+947;-;Battistella *;SP;Química e Petroquímica;14.928,00;US;-;-;-;-;1
+948;895;Capricórnio *;MG;Metalurgia e Mineração;14.948,70;AG/BR/JP;376,7;2,5;1.944,30;15.565,70;1
+949;952;Grupo Basequímica *;RS;Química e Petroquímica;15.009,20;NO;-;-;-;-;1
+950;970;Toledo do Brasil;SP;Energia Elétrica;15.228,30;PT;1.482,50;9,7;2.982,80;10.331,60;1
+951;830;Germed;PR;Energia Elétrica;16.244,30;BR;2.062,90;12,7;4.284,50;17.598,20;1
+952;910;Daitan;SP;Alimentos e Bebidas;17.122,80;BR;16,2;0,1;1.726,10;-281,7;1
+953;-;Biancogrês Cerâmica;RJ;TI & Telecom;17.377,20;IT;3.622,10;20,8;9.643,80;22.431,80;1
+954;-;Sascar *;SP;Comércio Varejista;17.565,60;BR;788,7;4,5;2.159,50;4.076,40;1
+955;755;Líder Aviação *;SP;Água e Saneamento;17.983,70;BR;3.367,50;18,7;7.491,70;21.635,80;1
+956;-;LM;DF;Serviços Especializados;18.356,10;BR;102,1;0,6;675,2;146,8;1
+957;-;Ciser;MT;Alimentos e Bebidas;18.793,20;BR;632,5;3,4;1.170,70;6.015,40;1
+958;-;Lopes Participações *;MA;Energia Elétrica;18.796,30;BR;2.715,60;14,4;4.944,50;9.773,40;1
+959;918;UCS;RJ;Comércio Varejista;18.956,30;BR;581,3;3,1;3.477,60;7.379,90;1
+960;-;Randstad Brasil;SP;Veículos e Peças;19.238,80;JP;-;-;-;-;1
+961;983;Infineum Brasil;SP;Comércio Varejista;19.886,30;BR;921,8;4,6;1.775,50;7.564,90;1
+962;953;Katrium;MG;Energia Elétrica;19.903,10;BR;527,2;2,6;3.499,90;6.462,20;1
+963;-;Todimo Materiais;RJ;TI & Telecom;20.136,20;US;-9.095,10;-45,2;3.896,60;17.796,50;0
+964;969;Sika;SP;Transportes e Logística;20.363,10;BR/CL;704;3,5;1.835,50;3.590,50;1
+965;986;Baldo *;SP;Alimentos e Bebidas;20.604,40;FR;-275;-1,3;-212,4;1.823,20;0
+966;888;PPE;SP;Veículos e Peças;21.802,10;BR;-1.294,20;-5,9;521,2;14.569,50;0
+967;968;Sansuy 4 *;SP;Alimentos e Bebidas;23.728,40;HK;-531,1;-2,2;1.306,60;-2.633,50;0
+968;960;Della Volpe;AM;Eletroeletrônica;24.554,00;CR;-;-;-;-;1
+969;-;Sequoia Transportes;MG;Energia Elétrica;25.390,30;BR;3.128,10;12,3;4.291,70;15.890,90;1
+970;935;Norte Buss;SP;Metalurgia e Mineração;25.436,40;BR;2.244,50;8,8;5.061,20;11.361,90;1
+971;994;Barralcool;SP;Comércio Varejista;25.655,00;BR;-1.433,00;-5,6;-159;578;0
+972;-;FG Empreendimentos *;SP;Veículos e Peças;25.900,00;AL;-;-;-;-;1
+973;977;Casa do Adubo;BA;Papel e Celulose;26.013,00;BR;-2.814,70;-10,8;10.720,50;18.088,00;0
+974;924;Yakult;DF;Energia Elétrica;27.725,50;BR;10.743,80;38,8;13.542,00;71.394,10;1
+975;933;Bevap Bioenergia *;RJ;Energia Elétrica;28.461,30;EP/BR;2.309,30;8,1;5.572,10;19.258,70;1
+976;-;Supermercados Archer *;SP;Açúcar e Álcool;29.907,40;BR;119,1;0,4;449;1.005,80;1
+977;-;Minasmáquinas;SP;Energia Elétrica;29.932,50;CH;2.748,30;9,2;6.393,60;13.283,20;1
+978;967;LCM Construção;RJ;Petróleo e Gás;32.375,00;HO;262;0,8;13.464,00;17.776,00;1
+979;-;Geolab;MG;Metalurgia e Mineração;32.455,10;EP;1.229,80;3,8;4.073,50;11.435,00;1
+980;886;Hispamar Satélites *;SP;Alimentos e Bebidas;33.447,00;BR/US;297,5;0,9;4.338,20;8.148,30;1
+981;999;Supermercado Baklizi;RJ;Energia Elétrica;33.711,70;IT;3.403,10;10,1;5.606,20;23.920,60;1
+982;-;Dupatri Hospitalar;MG;Veículos e Peças;34.422,10;IT;-;-;-;-;1
+983;-;OceanPact *;SP;TI & Telecom;35.210,20;MX;1.502,60;4,3;13.809,00;17.324,30;1
+984;975;Cetesb;SC;Alimentos e Bebidas;37.545,70;HO;352,1;0,9;819,9;6.750,10;1
+985;-;Mills *;SP;Metalurgia e Mineração;39.644,00;BR;1.216,90;3,1;5.258,20;27.173,10;1
+986;-;EMAE *;ES;Alimentos e Bebidas;43.586,30;US;-;-;-;-;1
+987;-;Transauto;SP;TI & Telecom;44.268,20;EP;5.001,00;11,3;18.134,50;70.455,60;1
+988;-;Hitss do Brasil;SP;Alimentos e Bebidas;48.629,80;US;345,5;0,7;568,3;5.430,50;1
+989;843;Dommo Energia 4 *;SP;Alimentos e Bebidas;48.761,10;BR;1.582,20;3,2;4.609,90;1.776,30;1
+990;-;Statkraft Energias Renováveis *;BA;Química e Petroquímica;52.323,50;BR;-2.897,00;-5,5;3.575,70;3.944,70;0
+991;-;Colacril *;SP;Alimentos e Bebidas;52.599,70;BE;12.188,30;23,2;20.727,80;62.556,00;1
+992;-;Tramontina Multi;SP;Comércio Varejista;56.635,00;FR;836;1,5;3.855,00;13.511,00;1
+993;966;Expocaccer;SP;Comércio Varejista;60.064,00;FR;1.328,00;2,2;3.852,00;14.705,00;1
+994;936;Cast Informática *;SP;Petróleo e Gás;72.979,70;BR;2.425,40;3,3;7.045,90;11.235,00;1
+995;939;Vittia Fertilizantes e Biológicos *;SP;Petróleo e Gás;89.298,00;BR;402,9;0,5;2.433,10;9.835,20;1
+996;-;Brz Empreendimentos e Construções *;RJ;Petróleo e Gás;94.985,00;BR;2.211,00;2,3;1.881,00;8.766,00;1
+997;974;CSU Cardsystem;SP;Petróleo e Gás;120.581,00;BR/HO;2.395,70;2;9.028,60;11.730,10;1
+998;899;Brasilmad;RJ;Metalurgia e Mineração;148.640,00;BR;-8.696,00;-5,9;16.991,70;157.149,40;0
+999;-;GS Inima Brasil *;SP;Alimentos e Bebidas;204.524,00;BR;6.464,90;3,2;19.795,90;32.482,00;1
+1000;1000;Cialne *;RJ;Petróleo e Gás;302.245,00;BR;40.970,00;13,6;;;1
